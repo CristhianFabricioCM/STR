@@ -1,0 +1,572 @@
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.csproj.AssemblyReference.cache
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Properties.Resources.resources
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.csproj.GenerateResource.cache
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.csproj.CoreCompileInputs.cache
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\Sol_PuntoVenta.Negocio.dll
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\Sol_PuntoVenta.Datos.dll
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\Sol_PuntoVenta.Entidades.dll
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\Sol_PuntoVenta.Negocio.pdb
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\Sol_PuntoVenta.Datos.pdb
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\Sol_PuntoVenta.Entidades.pdb
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Frm_Familias.resources
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Frm_Categorias.resources
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Frm_SubFamilias.resources
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Frm_PuntoVenta.resources
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Frm_AreaDespacho.resources
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.csproj.CopyComplete
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Frm_MiDashBoard.resources
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Frm_Mesas.resources
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Frm_Productos.resources
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Controles.MiMesa.resources
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Frm_RegistrarPedidos.resources
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Controles.Frm_MesaAbierta.resources
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Controles.MiProducto.resources
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Frm_login.resources
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Reportes.Frm_Rpt_Categorias.resources
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\EnvDTE.dll
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\stdole.dll
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\Microsoft.MSXML.dll
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Reportes.Frm_Rpt_AreaDespacho.resources
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Reportes.Frm_Rpt_Familias.resources
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Reportes.Frm_Rpt_Mesas.resources
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Reportes.Frm_Rpt_Productos.resources
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Reportes.Frm_Rpt_PuntoVenta.resources
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Reportes.Frm_Rpt_SubFamilias.resources
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Reportes.Frm_Rpt_ImprimirComanda.resources
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Frm_Cierre_Turnos.resources
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Reportes.Frm_Rpt_Imprimir_Boleta.resources
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Reportes.Frm_Rpt_Imprimir_Factura.resources
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Frm_Consultas_Boletas_Facturas.resources
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Reportes.Frm_Rpt_Tickets_PV.resources
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Frm_Reporte_Tickets_PV.resources
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Frm_Reporte_Tickets_PV_anulados.resources
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Reportes.Frm_Rpt_Tickets_PV_Anulados.resources
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Frm_Reporte_Boletas_Fecha.resources
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Reportes.Frm_Rpt_Boletas_Fecha.resources
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Frm_Reporte_Facturas_Fecha.resources
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Reportes.Frm_Rpt_Facturas_Fecha.resources
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Frm_Reporte_Personalizados.resources
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Reportes.Frm_Rpt_Productos_Vendidos_PV.resources
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Reportes.Frm_Rpt_Boletas_Facturas_PV.resources
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Reportes.Frm_Rpt_Imprimir_Precuenta.resources
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Frm_Recuperar_Password.resources
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Controles.Frm_ActualizarPasswordUsuario.resources
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Reportes.Frm_Rpt_Productos_Vendidos.resources
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Reportes.Frm_Rpt_Productos_Vendidos_x_Usuarios.resources
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\Sistema de Punto de Venta.exe.config
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\Sistema de Punto de Venta.exe.manifest
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\Sistema de Punto de Venta.application
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\Sistema de Punto de Venta.exe
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\Sistema de Punto de Venta.pdb
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sistema de Punto de Venta.exe.manifest
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sistema de Punto de Venta.application
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sistema de Punto de Venta.exe
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sistema de Punto de Venta.pdb
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\x86\SqlServerSpatial160.dll
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\x64\SqlServerSpatial160.dll
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Developer\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\x86\SqlServerSpatial160.dll
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\x64\SqlServerSpatial160.dll
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\Sistema de Punto de Venta.exe.config
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\Sistema de Punto de Venta.exe.manifest
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\Sistema de Punto de Venta.application
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\Sistema de Punto de Venta.exe
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\Sistema de Punto de Venta.pdb
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\Sol_PuntoVenta.Entidades.dll
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\Sol_PuntoVenta.Negocio.dll
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\Sol_PuntoVenta.Datos.dll
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\EnvDTE.dll
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\stdole.dll
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\Microsoft.MSXML.dll
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\Sol_PuntoVenta.Entidades.pdb
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\Sol_PuntoVenta.Negocio.pdb
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\Sol_PuntoVenta.Datos.pdb
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.csproj.AssemblyReference.cache
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Controles.Frm_ActualizarPasswordUsuario.resources
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Controles.Frm_MesaAbierta.resources
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Controles.MiMesa.resources
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Controles.MiProducto.resources
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Frm_AreaDespacho.resources
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Frm_Cierre_Turnos.resources
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Frm_Consultas_Boletas_Facturas.resources
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Frm_login.resources
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Frm_Mesas.resources
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Frm_MiDashBoard.resources
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Frm_PuntoVenta.resources
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Frm_Categorias.resources
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Frm_Productos.resources
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Frm_Recuperar_Password.resources
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Frm_RegistrarPedidos.resources
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Frm_Reporte_Facturas_Fecha.resources
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Frm_Reporte_Boletas_Fecha.resources
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Frm_Reporte_Personalizados.resources
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Frm_Reporte_Tickets_PV.resources
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Frm_Reporte_Tickets_PV_anulados.resources
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Frm_SubFamilias.resources
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Frm_Familias.resources
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Properties.Resources.resources
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Reportes.Frm_Rpt_Boletas_Facturas_PV.resources
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Reportes.Frm_Rpt_Boletas_Fecha.resources
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Reportes.Frm_Rpt_Facturas_Fecha.resources
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Reportes.Frm_Rpt_ImprimirComanda.resources
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Reportes.Frm_Rpt_Imprimir_Boleta.resources
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Reportes.Frm_Rpt_Imprimir_Factura.resources
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Reportes.Frm_Rpt_Imprimir_Precuenta.resources
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Reportes.Frm_Rpt_Productos_Vendidos.resources
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Reportes.Frm_Rpt_Productos_Vendidos_PV.resources
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Reportes.Frm_Rpt_Productos_Vendidos_x_Usuarios.resources
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Reportes.Frm_Rpt_Tickets_PV.resources
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Reportes.Frm_Rpt_Tickets_PV_Anulados.resources
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.csproj.GenerateResource.cache
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.csproj.CoreCompileInputs.cache
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sistema de Punto de Venta.exe.manifest
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sistema de Punto de Venta.application
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.csproj.CopyComplete
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sistema de Punto de Venta.exe
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sistema de Punto de Venta.pdb
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Configuraciones.Frm_Imagenes_Predeterminadas.resources
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Frm_Usuarios.resources
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Configuraciones.Reportes.Frm_Rpt_Usuarios.resources
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Frm_Areas.resources
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Configuraciones.Reportes.Frm_Rpt_Areas.resources
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Frm_Cargos.resources
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Configuraciones.Reportes.Frm_Rpt_Cargos.resources
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.DatosMaestros.Reportes.Frm_Rpt_AreaDespacho.resources
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.DatosMaestros.Reportes.Frm_Rpt_Categorias.resources
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.DatosMaestros.Reportes.Frm_Rpt_Familias.resources
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.DatosMaestros.Reportes.Frm_Rpt_Mesas.resources
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.DatosMaestros.Reportes.Frm_Rpt_Productos.resources
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.DatosMaestros.Reportes.Frm_Rpt_PuntoVenta.resources
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.DatosMaestros.Reportes.Frm_Rpt_SubFamilias.resources
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Frm_Unidades_Medidas.resources
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.DatosMaestros.Reportes.Frm_Rpt_Unidades_Medidas.resources
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Frm_Departamentos.resources
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Frm_Provincias.resources
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Configuraciones.Reportes.Frm_Rpt_Departamentos.resources
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Configuraciones.Reportes.Frm_Rpt_Provincias.resources
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Frm_Distritos.resources
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Configuraciones.Reportes.Frm_Rpt_Distritos.resources
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.DatosMaestros.Frm_Clientes.resources
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Configuraciones.Frm_Empresa.resources
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.DatosMaestros.Reportes.Frm_Rpt_Clientes.resources
+C:\GrupoDatSoft_Negocio\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Configuraciones.Reportes.Frm_Rpt_Empresa.resources
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\x86\SqlServerSpatial160.dll
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\x64\SqlServerSpatial160.dll
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\Sistema de Punto de Venta.exe.config
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\Sistema de Punto de Venta.exe.manifest
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\Sistema de Punto de Venta.application
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\Sistema de Punto de Venta.exe
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\Sistema de Punto de Venta.pdb
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\Sol_PuntoVenta.Entidades.dll
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\Sol_PuntoVenta.Negocio.dll
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\Sol_PuntoVenta.Datos.dll
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\EnvDTE.dll
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\stdole.dll
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\Microsoft.MSXML.dll
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\Sol_PuntoVenta.Entidades.pdb
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\Sol_PuntoVenta.Negocio.pdb
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\Sol_PuntoVenta.Datos.pdb
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.csproj.AssemblyReference.cache
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Frm_Areas.resources
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Frm_Cargos.resources
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Frm_Distritos.resources
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Configuraciones.Frm_Empresa.resources
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Configuraciones.Frm_Imagenes_Predeterminadas.resources
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Frm_Usuarios.resources
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Configuraciones.Reportes.Frm_Rpt_Areas.resources
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Configuraciones.Reportes.Frm_Rpt_Cargos.resources
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Configuraciones.Reportes.Frm_Rpt_Departamentos.resources
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Configuraciones.Reportes.Frm_Rpt_Distritos.resources
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Configuraciones.Reportes.Frm_Rpt_Empresa.resources
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Configuraciones.Reportes.Frm_Rpt_Provincias.resources
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Configuraciones.Reportes.Frm_Rpt_Usuarios.resources
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Controles.Frm_ActualizarPasswordUsuario.resources
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Controles.Frm_MesaAbierta.resources
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Controles.MiMesa.resources
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Controles.MiProducto.resources
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Frm_AreaDespacho.resources
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Frm_Departamentos.resources
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Frm_Provincias.resources
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.DatosMaestros.Frm_Clientes.resources
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Frm_Unidades_Medidas.resources
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.DatosMaestros.Reportes.Frm_Rpt_AreaDespacho.resources
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.DatosMaestros.Reportes.Frm_Rpt_Categorias.resources
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.DatosMaestros.Reportes.Frm_Rpt_Clientes.resources
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.DatosMaestros.Reportes.Frm_Rpt_Familias.resources
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.DatosMaestros.Reportes.Frm_Rpt_Mesas.resources
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.DatosMaestros.Reportes.Frm_Rpt_Productos.resources
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.DatosMaestros.Reportes.Frm_Rpt_PuntoVenta.resources
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.DatosMaestros.Reportes.Frm_Rpt_SubFamilias.resources
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.DatosMaestros.Reportes.Frm_Rpt_Unidades_Medidas.resources
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Frm_Cierre_Turnos.resources
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Frm_Consultas_Boletas_Facturas.resources
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Frm_login.resources
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Frm_Mesas.resources
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Frm_MiDashBoard.resources
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Frm_PuntoVenta.resources
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Frm_Categorias.resources
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Frm_Productos.resources
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Frm_Recuperar_Password.resources
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Frm_RegistrarPedidos.resources
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Frm_Reporte_Facturas_Fecha.resources
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Frm_Reporte_Boletas_Fecha.resources
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Frm_Reporte_Personalizados.resources
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Frm_Reporte_Tickets_PV.resources
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Frm_Reporte_Tickets_PV_anulados.resources
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Frm_SubFamilias.resources
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Frm_Familias.resources
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Properties.Resources.resources
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Reportes.Frm_Rpt_Boletas_Facturas_PV.resources
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Reportes.Frm_Rpt_Boletas_Fecha.resources
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Reportes.Frm_Rpt_Facturas_Fecha.resources
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Reportes.Frm_Rpt_ImprimirComanda.resources
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Reportes.Frm_Rpt_Imprimir_Boleta.resources
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Reportes.Frm_Rpt_Imprimir_Factura.resources
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Reportes.Frm_Rpt_Imprimir_Precuenta.resources
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Reportes.Frm_Rpt_Productos_Vendidos.resources
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Reportes.Frm_Rpt_Productos_Vendidos_PV.resources
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Reportes.Frm_Rpt_Productos_Vendidos_x_Usuarios.resources
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Reportes.Frm_Rpt_Tickets_PV.resources
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Reportes.Frm_Rpt_Tickets_PV_Anulados.resources
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.csproj.GenerateResource.cache
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.csproj.CoreCompileInputs.cache
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sistema de Punto de Venta.exe.manifest
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sistema de Punto de Venta.application
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.csproj.CopyComplete
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sistema de Punto de Venta.exe
+C:\SISTEMAS2024\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sistema de Punto de Venta.pdb
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\x86\SqlServerSpatial160.dll
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\x64\SqlServerSpatial160.dll
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\Sistema de Punto de Venta.exe.config
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\Sistema de Punto de Venta.exe.manifest
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\Sistema de Punto de Venta.application
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\Sistema de Punto de Venta.exe
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\Sistema de Punto de Venta.pdb
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\Sol_PuntoVenta.Entidades.dll
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\Sol_PuntoVenta.Negocio.dll
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\Sol_PuntoVenta.Datos.dll
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\EnvDTE.dll
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\stdole.dll
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\Sol_PuntoVenta.Entidades.pdb
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\Sol_PuntoVenta.Negocio.pdb
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\Sol_PuntoVenta.Datos.pdb
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.csproj.AssemblyReference.cache
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Frm_Areas.resources
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Frm_Cargos.resources
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Frm_Distritos.resources
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Configuraciones.Frm_Empresa.resources
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Configuraciones.Frm_Imagenes_Predeterminadas.resources
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Frm_Usuarios.resources
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Configuraciones.Reportes.Frm_Rpt_Areas.resources
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Configuraciones.Reportes.Frm_Rpt_Cargos.resources
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Configuraciones.Reportes.Frm_Rpt_Departamentos.resources
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Configuraciones.Reportes.Frm_Rpt_Distritos.resources
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Configuraciones.Reportes.Frm_Rpt_Empresa.resources
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Configuraciones.Reportes.Frm_Rpt_Provincias.resources
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Configuraciones.Reportes.Frm_Rpt_Usuarios.resources
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Controles.Frm_ActualizarPasswordUsuario.resources
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Controles.Frm_MesaAbierta.resources
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Controles.MiMesa.resources
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Controles.MiProducto.resources
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Frm_AreaDespacho.resources
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Frm_Departamentos.resources
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Frm_Provincias.resources
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.DatosMaestros.Frm_Clientes.resources
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Frm_Unidades_Medidas.resources
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.DatosMaestros.Reportes.Frm_Rpt_AreaDespacho.resources
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.DatosMaestros.Reportes.Frm_Rpt_Categorias.resources
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.DatosMaestros.Reportes.Frm_Rpt_Clientes.resources
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.DatosMaestros.Reportes.Frm_Rpt_Familias.resources
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.DatosMaestros.Reportes.Frm_Rpt_Mesas.resources
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.DatosMaestros.Reportes.Frm_Rpt_Productos.resources
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.DatosMaestros.Reportes.Frm_Rpt_PuntoVenta.resources
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.DatosMaestros.Reportes.Frm_Rpt_SubFamilias.resources
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.DatosMaestros.Reportes.Frm_Rpt_Unidades_Medidas.resources
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Frm_Cierre_Turnos.resources
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Frm_Consultas_Boletas_Facturas.resources
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Frm_login.resources
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Frm_Mesas.resources
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Frm_MiDashBoard.resources
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Frm_PuntoVenta.resources
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Frm_Categorias.resources
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Frm_Productos.resources
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Frm_Recuperar_Password.resources
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Frm_RegistrarPedidos.resources
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Frm_Reporte_Facturas_Fecha.resources
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Frm_Reporte_Boletas_Fecha.resources
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Frm_Reporte_Personalizados.resources
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Frm_Reporte_Tickets_PV.resources
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Frm_Reporte_Tickets_PV_anulados.resources
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Frm_SubFamilias.resources
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Frm_Familias.resources
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Properties.Resources.resources
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Reportes.Frm_Rpt_Boletas_Facturas_PV.resources
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Reportes.Frm_Rpt_Boletas_Fecha.resources
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Reportes.Frm_Rpt_Facturas_Fecha.resources
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Reportes.Frm_Rpt_ImprimirComanda.resources
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Reportes.Frm_Rpt_Imprimir_Boleta.resources
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Reportes.Frm_Rpt_Imprimir_Factura.resources
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Reportes.Frm_Rpt_Imprimir_Precuenta.resources
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Reportes.Frm_Rpt_Productos_Vendidos.resources
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Reportes.Frm_Rpt_Productos_Vendidos_PV.resources
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Reportes.Frm_Rpt_Productos_Vendidos_x_Usuarios.resources
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Reportes.Frm_Rpt_Tickets_PV.resources
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Reportes.Frm_Rpt_Tickets_PV_Anulados.resources
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.csproj.GenerateResource.cache
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sistema de Punto de Venta.exe.manifest
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sistema de Punto de Venta.application
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.csproj.CopyComplete
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sistema de Punto de Venta.exe
+C:\Users\Alvaro Pacherres\Documents\cursos\OneDrive\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sistema de Punto de Venta.pdb
