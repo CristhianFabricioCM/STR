@@ -65,7 +65,7 @@ namespace Sol_PuntoVenta.Presentacion
         {
             if (currentBtn != null)
             {
-                currentBtn.BackColor = Color.FromArgb(250, 130,49);
+                currentBtn.BackColor = Color.FromArgb(72, 209, 204);
                 currentBtn.ForeColor = Color.White;
                 currentBtn.TextAlign = ContentAlignment.MiddleLeft;
                 currentBtn.IconColor = Color.White;
