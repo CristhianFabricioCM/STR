@@ -7,7 +7,7 @@ using System.Data.SqlClient;
 
 namespace Sol_PuntoVenta.Datos
 {
-   public class Conexion
+    public class Conexion
     {
         private string Base;
         private string Servidor;
@@ -18,10 +18,10 @@ namespace Sol_PuntoVenta.Datos
 
         private Conexion()
         {
-            this.Base = "BD_MIPUNTOVENTA";
-            this.Servidor = "LAPTOP-2IKU6IPT\\SQLEXPRESS01";            
-            this.Usuario = "sa";
-            this.Clave = "sasa";
+            this.Base = "Restaurant_BD";
+            this.Servidor = "sql-agrosistema-dev.database.windows.net";
+            this.Usuario = "usr_admin";
+            this.Clave = "Peru@2024";
             this.Seguridad = false;
         }
 
@@ -30,7 +30,7 @@ namespace Sol_PuntoVenta.Datos
             SqlConnection Cadena = new SqlConnection();
             try
             {
-                Cadena.ConnectionString = "Server=" + this.Servidor + "; Database=" + this.Base + ";";
+                /*Cadena.ConnectionString = "Server=" + this.Servidor + "; Database=" + this.Base + ";";
                 if (Seguridad)
                 {
                     Cadena.ConnectionString = Cadena.ConnectionString + "Integrated Security = SSPI";
@@ -38,19 +38,21 @@ namespace Sol_PuntoVenta.Datos
                 else
                 {
                     Cadena.ConnectionString = Cadena.ConnectionString + "User Id=" + this.Usuario + "; Password=" + this.Clave;
-                }
+                }*/
+
+                Cadena.ConnectionString = "Server=tcp:" + this.Servidor + ",1433;Initial Catalog=" + this.Base + ";Persist Security Info=False;User ID=" + this.Usuario + ";Password=" + this.Clave + ";MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;";
             }
             catch (Exception ex)
             {
 
-               Cadena = null;
-               throw ex;
+                Cadena = null;
+                throw ex;
             }
             return Cadena;
         }
         public static Conexion getInstancia()
         {
-            if (Con== null)
+            if (Con == null)
             {
                 Con = new Conexion();
             }
