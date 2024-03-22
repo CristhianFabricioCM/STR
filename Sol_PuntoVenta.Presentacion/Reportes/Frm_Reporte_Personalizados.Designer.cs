@@ -84,12 +84,12 @@ namespace Sol_PuntoVenta.Presentacion
             // 
             // Btn_reporte
             // 
-            this.Btn_reporte.BackColor = System.Drawing.Color.DarkOrange;
+            this.Btn_reporte.BackColor = System.Drawing.Color.MediumTurquoise;
             this.Btn_reporte.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Btn_reporte.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(69)))), ((int)(((byte)(103)))), ((int)(((byte)(112)))));
             this.Btn_reporte.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.Btn_reporte.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Btn_reporte.ForeColor = System.Drawing.Color.White;
+            this.Btn_reporte.ForeColor = System.Drawing.Color.Black;
             this.Btn_reporte.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.Btn_reporte.Location = new System.Drawing.Point(158, 107);
             this.Btn_reporte.Name = "Btn_reporte";
@@ -140,7 +140,7 @@ namespace Sol_PuntoVenta.Presentacion
             // 
             // panel1
             // 
-            this.panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(87)))), ((int)(((byte)(101)))), ((int)(((byte)(116)))));
+            this.panel1.BackColor = System.Drawing.Color.MidnightBlue;
             this.panel1.Controls.Add(this.lblTitleChildForm);
             this.panel1.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel1.Location = new System.Drawing.Point(0, 0);
@@ -207,12 +207,12 @@ namespace Sol_PuntoVenta.Presentacion
             // 
             // Btn_reporte2
             // 
-            this.Btn_reporte2.BackColor = System.Drawing.Color.DarkOrange;
+            this.Btn_reporte2.BackColor = System.Drawing.Color.MediumTurquoise;
             this.Btn_reporte2.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Btn_reporte2.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(69)))), ((int)(((byte)(103)))), ((int)(((byte)(112)))));
             this.Btn_reporte2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.Btn_reporte2.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Btn_reporte2.ForeColor = System.Drawing.Color.White;
+            this.Btn_reporte2.ForeColor = System.Drawing.Color.Black;
             this.Btn_reporte2.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.Btn_reporte2.Location = new System.Drawing.Point(158, 107);
             this.Btn_reporte2.Name = "Btn_reporte2";
@@ -298,12 +298,12 @@ namespace Sol_PuntoVenta.Presentacion
             // 
             // Btn_reporte3
             // 
-            this.Btn_reporte3.BackColor = System.Drawing.Color.DarkOrange;
+            this.Btn_reporte3.BackColor = System.Drawing.Color.MediumTurquoise;
             this.Btn_reporte3.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Btn_reporte3.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(69)))), ((int)(((byte)(103)))), ((int)(((byte)(112)))));
             this.Btn_reporte3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.Btn_reporte3.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Btn_reporte3.ForeColor = System.Drawing.Color.White;
+            this.Btn_reporte3.ForeColor = System.Drawing.Color.Black;
             this.Btn_reporte3.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.Btn_reporte3.Location = new System.Drawing.Point(158, 94);
             this.Btn_reporte3.Name = "Btn_reporte3";
@@ -370,12 +370,12 @@ namespace Sol_PuntoVenta.Presentacion
             // 
             // Btn_reporte4
             // 
-            this.Btn_reporte4.BackColor = System.Drawing.Color.DarkOrange;
+            this.Btn_reporte4.BackColor = System.Drawing.Color.MediumTurquoise;
             this.Btn_reporte4.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Btn_reporte4.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(69)))), ((int)(((byte)(103)))), ((int)(((byte)(112)))));
             this.Btn_reporte4.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.Btn_reporte4.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Btn_reporte4.ForeColor = System.Drawing.Color.White;
+            this.Btn_reporte4.ForeColor = System.Drawing.Color.Black;
             this.Btn_reporte4.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.Btn_reporte4.Location = new System.Drawing.Point(158, 94);
             this.Btn_reporte4.Name = "Btn_reporte4";

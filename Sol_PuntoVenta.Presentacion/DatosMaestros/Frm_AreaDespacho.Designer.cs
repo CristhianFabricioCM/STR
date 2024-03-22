@@ -30,9 +30,9 @@ namespace Sol_PuntoVenta.Presentacion
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle4 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle5 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle6 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle3 = new System.Windows.Forms.DataGridViewCellStyle();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Frm_AreaDespacho));
             this.Tbp_general = new System.Windows.Forms.TabControl();
             this.tabPage1 = new System.Windows.Forms.TabPage();
@@ -44,15 +44,16 @@ namespace Sol_PuntoVenta.Presentacion
             this.Txt_buscar = new System.Windows.Forms.TextBox();
             this.Lbl_total = new System.Windows.Forms.Label();
             this.tabPage2 = new System.Windows.Forms.TabPage();
+            this.Cmb_PuntodeVenta = new System.Windows.Forms.ComboBox();
             this.Txt_impresora = new System.Windows.Forms.TextBox();
             this.label5 = new System.Windows.Forms.Label();
-            this.Img_procesos = new System.Windows.Forms.ImageList(this.components);
             this.label3 = new System.Windows.Forms.Label();
             this.Btn_retornar = new System.Windows.Forms.Button();
             this.Btn_guardar = new System.Windows.Forms.Button();
             this.Btn_cancelar = new System.Windows.Forms.Button();
             this.Txt_descripcion_ad = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
+            this.Img_procesos = new System.Windows.Forms.ImageList(this.components);
             this.Img_principal = new System.Windows.Forms.ImageList(this.components);
             this.Btn_nuevo = new System.Windows.Forms.Button();
             this.Btn_actualizar = new System.Windows.Forms.Button();
@@ -61,7 +62,6 @@ namespace Sol_PuntoVenta.Presentacion
             this.Btn_salir = new System.Windows.Forms.Button();
             this.panel1 = new System.Windows.Forms.Panel();
             this.lblTitleChildForm = new System.Windows.Forms.Label();
-            this.Cmb_PuntodeVenta = new System.Windows.Forms.ComboBox();
             this.Tbp_general.SuspendLayout();
             this.tabPage1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.Dgv_Listado)).BeginInit();
@@ -101,21 +101,21 @@ namespace Sol_PuntoVenta.Presentacion
             this.Dgv_Listado.AllowUserToAddRows = false;
             this.Dgv_Listado.AllowUserToDeleteRows = false;
             this.Dgv_Listado.AllowUserToOrderColumns = true;
-            dataGridViewCellStyle4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(253)))), ((int)(((byte)(246)))), ((int)(((byte)(233)))));
-            dataGridViewCellStyle4.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(47)))), ((int)(((byte)(53)))), ((int)(((byte)(66)))));
-            this.Dgv_Listado.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle4;
+            dataGridViewCellStyle1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(253)))), ((int)(((byte)(246)))), ((int)(((byte)(233)))));
+            dataGridViewCellStyle1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(47)))), ((int)(((byte)(53)))), ((int)(((byte)(66)))));
+            this.Dgv_Listado.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle1;
             this.Dgv_Listado.BackgroundColor = System.Drawing.Color.FromArgb(((int)(((byte)(240)))), ((int)(((byte)(240)))), ((int)(((byte)(240)))));
             this.Dgv_Listado.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.Dgv_Listado.CellBorderStyle = System.Windows.Forms.DataGridViewCellBorderStyle.SingleVertical;
             this.Dgv_Listado.ColumnHeadersBorderStyle = System.Windows.Forms.DataGridViewHeaderBorderStyle.None;
-            dataGridViewCellStyle5.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(250)))), ((int)(((byte)(130)))), ((int)(((byte)(49)))));
-            dataGridViewCellStyle5.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold);
-            dataGridViewCellStyle5.ForeColor = System.Drawing.Color.White;
-            dataGridViewCellStyle5.SelectionBackColor = System.Drawing.Color.DimGray;
-            dataGridViewCellStyle5.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle5.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.Dgv_Listado.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle5;
+            dataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(250)))), ((int)(((byte)(130)))), ((int)(((byte)(49)))));
+            dataGridViewCellStyle2.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold);
+            dataGridViewCellStyle2.ForeColor = System.Drawing.Color.White;
+            dataGridViewCellStyle2.SelectionBackColor = System.Drawing.Color.DimGray;
+            dataGridViewCellStyle2.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle2.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.Dgv_Listado.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle2;
             this.Dgv_Listado.ColumnHeadersHeight = 30;
             this.Dgv_Listado.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.DisableResizing;
             this.Dgv_Listado.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
@@ -125,11 +125,11 @@ namespace Sol_PuntoVenta.Presentacion
             this.Dgv_Listado.Location = new System.Drawing.Point(7, 63);
             this.Dgv_Listado.Name = "Dgv_Listado";
             this.Dgv_Listado.ReadOnly = true;
-            dataGridViewCellStyle6.BackColor = System.Drawing.Color.White;
-            dataGridViewCellStyle6.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(47)))), ((int)(((byte)(53)))), ((int)(((byte)(66)))));
-            dataGridViewCellStyle6.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(87)))), ((int)(((byte)(96)))), ((int)(((byte)(111)))));
-            dataGridViewCellStyle6.SelectionForeColor = System.Drawing.Color.White;
-            this.Dgv_Listado.RowsDefaultCellStyle = dataGridViewCellStyle6;
+            dataGridViewCellStyle3.BackColor = System.Drawing.Color.White;
+            dataGridViewCellStyle3.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(47)))), ((int)(((byte)(53)))), ((int)(((byte)(66)))));
+            dataGridViewCellStyle3.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(87)))), ((int)(((byte)(96)))), ((int)(((byte)(111)))));
+            dataGridViewCellStyle3.SelectionForeColor = System.Drawing.Color.White;
+            this.Dgv_Listado.RowsDefaultCellStyle = dataGridViewCellStyle3;
             this.Dgv_Listado.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
             this.Dgv_Listado.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.Dgv_Listado.Size = new System.Drawing.Size(782, 212);
@@ -181,7 +181,7 @@ namespace Sol_PuntoVenta.Presentacion
             // 
             // Btn_buscar
             // 
-            this.Btn_buscar.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(31)))), ((int)(((byte)(52)))), ((int)(((byte)(72)))));
+            this.Btn_buscar.BackColor = System.Drawing.Color.Teal;
             this.Btn_buscar.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Btn_buscar.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(69)))), ((int)(((byte)(103)))), ((int)(((byte)(112)))));
             this.Btn_buscar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -228,6 +228,17 @@ namespace Sol_PuntoVenta.Presentacion
             this.tabPage2.TabIndex = 1;
             this.tabPage2.Text = "Mantenimiento";
             // 
+            // Cmb_PuntodeVenta
+            // 
+            this.Cmb_PuntodeVenta.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.Cmb_PuntodeVenta.Enabled = false;
+            this.Cmb_PuntodeVenta.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Cmb_PuntodeVenta.FormattingEnabled = true;
+            this.Cmb_PuntodeVenta.Location = new System.Drawing.Point(126, 49);
+            this.Cmb_PuntodeVenta.Name = "Cmb_PuntodeVenta";
+            this.Cmb_PuntodeVenta.Size = new System.Drawing.Size(237, 21);
+            this.Cmb_PuntodeVenta.TabIndex = 1;
+            // 
             // Txt_impresora
             // 
             this.Txt_impresora.Location = new System.Drawing.Point(126, 137);
@@ -245,17 +256,6 @@ namespace Sol_PuntoVenta.Presentacion
             this.label5.Size = new System.Drawing.Size(72, 13);
             this.label5.TabIndex = 21;
             this.label5.Text = "Impresora: (*):";
-            // 
-            // Img_procesos
-            // 
-            this.Img_procesos.ImageStream = ((System.Windows.Forms.ImageListStreamer)(resources.GetObject("Img_procesos.ImageStream")));
-            this.Img_procesos.TransparentColor = System.Drawing.Color.Transparent;
-            this.Img_procesos.Images.SetKeyName(0, "buscar.png");
-            this.Img_procesos.Images.SetKeyName(1, "cancelar.png");
-            this.Img_procesos.Images.SetKeyName(2, "guardar.png");
-            this.Img_procesos.Images.SetKeyName(3, "retornar.png");
-            this.Img_procesos.Images.SetKeyName(4, "confirmar.png");
-            this.Img_procesos.Images.SetKeyName(5, "lupa.png");
             // 
             // label3
             // 
@@ -332,6 +332,17 @@ namespace Sol_PuntoVenta.Presentacion
             this.label2.Size = new System.Drawing.Size(115, 13);
             this.label2.TabIndex = 2;
             this.label2.Text = "Área de Despacho: (*):";
+            // 
+            // Img_procesos
+            // 
+            this.Img_procesos.ImageStream = ((System.Windows.Forms.ImageListStreamer)(resources.GetObject("Img_procesos.ImageStream")));
+            this.Img_procesos.TransparentColor = System.Drawing.Color.Transparent;
+            this.Img_procesos.Images.SetKeyName(0, "buscar.png");
+            this.Img_procesos.Images.SetKeyName(1, "cancelar.png");
+            this.Img_procesos.Images.SetKeyName(2, "guardar.png");
+            this.Img_procesos.Images.SetKeyName(3, "retornar.png");
+            this.Img_procesos.Images.SetKeyName(4, "confirmar.png");
+            this.Img_procesos.Images.SetKeyName(5, "lupa.png");
             // 
             // Img_principal
             // 
@@ -442,7 +453,7 @@ namespace Sol_PuntoVenta.Presentacion
             // 
             this.panel1.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(87)))), ((int)(((byte)(101)))), ((int)(((byte)(116)))));
+            this.panel1.BackColor = System.Drawing.Color.Navy;
             this.panel1.Controls.Add(this.lblTitleChildForm);
             this.panel1.Location = new System.Drawing.Point(0, 0);
             this.panel1.Name = "panel1";
@@ -459,17 +470,6 @@ namespace Sol_PuntoVenta.Presentacion
             this.lblTitleChildForm.Size = new System.Drawing.Size(175, 18);
             this.lblTitleChildForm.TabIndex = 7;
             this.lblTitleChildForm.Text = ".:. Área de despacho";
-            // 
-            // Cmb_PuntodeVenta
-            // 
-            this.Cmb_PuntodeVenta.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
-            this.Cmb_PuntodeVenta.Enabled = false;
-            this.Cmb_PuntodeVenta.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Cmb_PuntodeVenta.FormattingEnabled = true;
-            this.Cmb_PuntodeVenta.Location = new System.Drawing.Point(126, 49);
-            this.Cmb_PuntodeVenta.Name = "Cmb_PuntodeVenta";
-            this.Cmb_PuntodeVenta.Size = new System.Drawing.Size(237, 21);
-            this.Cmb_PuntodeVenta.TabIndex = 1;
             // 
             // Frm_AreaDespacho
             // 

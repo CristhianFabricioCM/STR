@@ -67,7 +67,7 @@ namespace Sol_PuntoVenta.Presentacion
             // 
             // panel1
             // 
-            this.panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(87)))), ((int)(((byte)(101)))), ((int)(((byte)(116)))));
+            this.panel1.BackColor = System.Drawing.Color.MidnightBlue;
             this.panel1.Controls.Add(this.lblTitleChildForm);
             this.panel1.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel1.Location = new System.Drawing.Point(0, 0);
@@ -98,7 +98,7 @@ namespace Sol_PuntoVenta.Presentacion
             // 
             // panel2
             // 
-            this.panel2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(234)))), ((int)(((byte)(167)))));
+            this.panel2.BackColor = System.Drawing.Color.MintCream;
             this.panel2.Controls.Add(this.Pnl_listado_pv);
             this.panel2.Controls.Add(this.Lbl_mensaje);
             this.panel2.Controls.Add(this.Lbl_estado_tu);
@@ -188,7 +188,7 @@ namespace Sol_PuntoVenta.Presentacion
             // Lbl_mensaje
             // 
             this.Lbl_mensaje.Font = new System.Drawing.Font("Verdana", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Lbl_mensaje.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
+            this.Lbl_mensaje.ForeColor = System.Drawing.Color.DarkGreen;
             this.Lbl_mensaje.Location = new System.Drawing.Point(25, 113);
             this.Lbl_mensaje.Name = "Lbl_mensaje";
             this.Lbl_mensaje.Size = new System.Drawing.Size(1052, 25);
@@ -212,10 +212,10 @@ namespace Sol_PuntoVenta.Presentacion
             // 
             // Lbl_estado_pv
             // 
-            this.Lbl_estado_pv.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(117)))), ((int)(((byte)(110)))));
+            this.Lbl_estado_pv.BackColor = System.Drawing.Color.MediumTurquoise;
             this.Lbl_estado_pv.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.Lbl_estado_pv.Font = new System.Drawing.Font("Verdana", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Lbl_estado_pv.ForeColor = System.Drawing.Color.White;
+            this.Lbl_estado_pv.ForeColor = System.Drawing.Color.Black;
             this.Lbl_estado_pv.Location = new System.Drawing.Point(717, 43);
             this.Lbl_estado_pv.Name = "Lbl_estado_pv";
             this.Lbl_estado_pv.Size = new System.Drawing.Size(149, 54);
@@ -236,10 +236,10 @@ namespace Sol_PuntoVenta.Presentacion
             // 
             // Lbl_descripcion_tu
             // 
-            this.Lbl_descripcion_tu.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(117)))), ((int)(((byte)(110)))));
+            this.Lbl_descripcion_tu.BackColor = System.Drawing.Color.MediumTurquoise;
             this.Lbl_descripcion_tu.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.Lbl_descripcion_tu.Font = new System.Drawing.Font("Verdana", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Lbl_descripcion_tu.ForeColor = System.Drawing.Color.White;
+            this.Lbl_descripcion_tu.ForeColor = System.Drawing.Color.Black;
             this.Lbl_descripcion_tu.Location = new System.Drawing.Point(562, 43);
             this.Lbl_descripcion_tu.Name = "Lbl_descripcion_tu";
             this.Lbl_descripcion_tu.Size = new System.Drawing.Size(149, 54);
@@ -260,10 +260,10 @@ namespace Sol_PuntoVenta.Presentacion
             // 
             // Lbl_fecha_ct
             // 
-            this.Lbl_fecha_ct.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(117)))), ((int)(((byte)(110)))));
+            this.Lbl_fecha_ct.BackColor = System.Drawing.Color.MediumTurquoise;
             this.Lbl_fecha_ct.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.Lbl_fecha_ct.Font = new System.Drawing.Font("Verdana", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Lbl_fecha_ct.ForeColor = System.Drawing.Color.White;
+            this.Lbl_fecha_ct.ForeColor = System.Drawing.Color.Black;
             this.Lbl_fecha_ct.Location = new System.Drawing.Point(407, 43);
             this.Lbl_fecha_ct.Name = "Lbl_fecha_ct";
             this.Lbl_fecha_ct.Size = new System.Drawing.Size(149, 54);
@@ -284,10 +284,10 @@ namespace Sol_PuntoVenta.Presentacion
             // 
             // Lbl_descripcion_pv
             // 
-            this.Lbl_descripcion_pv.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(117)))), ((int)(((byte)(110)))));
+            this.Lbl_descripcion_pv.BackColor = System.Drawing.Color.MediumTurquoise;
             this.Lbl_descripcion_pv.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.Lbl_descripcion_pv.Font = new System.Drawing.Font("Verdana", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Lbl_descripcion_pv.ForeColor = System.Drawing.Color.White;
+            this.Lbl_descripcion_pv.ForeColor = System.Drawing.Color.Black;
             this.Lbl_descripcion_pv.Location = new System.Drawing.Point(25, 43);
             this.Lbl_descripcion_pv.Name = "Lbl_descripcion_pv";
             this.Lbl_descripcion_pv.Size = new System.Drawing.Size(273, 54);
@@ -353,7 +353,7 @@ namespace Sol_PuntoVenta.Presentacion
             // 
             // panel3
             // 
-            this.panel3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(250)))), ((int)(((byte)(130)))), ((int)(((byte)(49)))));
+            this.panel3.BackColor = System.Drawing.Color.Teal;
             this.panel3.Controls.Add(this.label2);
             this.panel3.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel3.Location = new System.Drawing.Point(0, 183);

@@ -64,7 +64,7 @@ namespace Sol_PuntoVenta.Presentacion
             // 
             // panel1
             // 
-            this.panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(87)))), ((int)(((byte)(101)))), ((int)(((byte)(116)))));
+            this.panel1.BackColor = System.Drawing.Color.MidnightBlue;
             this.panel1.Controls.Add(this.lblTitleChildForm);
             this.panel1.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel1.Location = new System.Drawing.Point(0, 0);
@@ -105,7 +105,7 @@ namespace Sol_PuntoVenta.Presentacion
             this.tabPage1.Location = new System.Drawing.Point(4, 36);
             this.tabPage1.Name = "tabPage1";
             this.tabPage1.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage1.Size = new System.Drawing.Size(1057, 472);
+            this.tabPage1.Size = new System.Drawing.Size(1057, 407);
             this.tabPage1.TabIndex = 0;
             this.tabPage1.Text = "Boletas";
             // 
@@ -165,11 +165,11 @@ namespace Sol_PuntoVenta.Presentacion
             // 
             // Btn_buscar
             // 
-            this.Btn_buscar.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(31)))), ((int)(((byte)(52)))), ((int)(((byte)(72)))));
+            this.Btn_buscar.BackColor = System.Drawing.Color.MediumTurquoise;
             this.Btn_buscar.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Btn_buscar.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(69)))), ((int)(((byte)(103)))), ((int)(((byte)(112)))));
             this.Btn_buscar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.Btn_buscar.ForeColor = System.Drawing.Color.White;
+            this.Btn_buscar.ForeColor = System.Drawing.Color.Black;
             this.Btn_buscar.Location = new System.Drawing.Point(331, 27);
             this.Btn_buscar.Name = "Btn_buscar";
             this.Btn_buscar.Size = new System.Drawing.Size(110, 30);

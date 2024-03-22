@@ -122,10 +122,9 @@ namespace Sol_PuntoVenta.Presentacion
             this.Pnl_titulo.Controls.Add(this.Btn_maximizar);
             this.Pnl_titulo.Controls.Add(this.Btn_cerrar);
             this.Pnl_titulo.Dock = System.Windows.Forms.DockStyle.Top;
-            this.Pnl_titulo.Location = new System.Drawing.Point(307, 0);
-            this.Pnl_titulo.Margin = new System.Windows.Forms.Padding(4);
+            this.Pnl_titulo.Location = new System.Drawing.Point(230, 0);
             this.Pnl_titulo.Name = "Pnl_titulo";
-            this.Pnl_titulo.Size = new System.Drawing.Size(1473, 92);
+            this.Pnl_titulo.Size = new System.Drawing.Size(798, 75);
             this.Pnl_titulo.TabIndex = 2;
             this.Pnl_titulo.MouseDown += new System.Windows.Forms.MouseEventHandler(this.Pnl_titulo_MouseDown);
             // 
@@ -135,12 +134,11 @@ namespace Sol_PuntoVenta.Presentacion
             | System.Windows.Forms.AnchorStyles.Right)));
             this.label1.Font = new System.Drawing.Font("Verdana", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(250)))), ((int)(((byte)(130)))), ((int)(((byte)(49)))));
-            this.label1.Location = new System.Drawing.Point(4, 6);
-            this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label1.Location = new System.Drawing.Point(3, 5);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(1281, 28);
+            this.label1.Size = new System.Drawing.Size(654, 23);
             this.label1.TabIndex = 7;
-            this.label1.Text = "SISTEMA INTEGRADO DE PUNTO DE VENTA v2.1";
+            this.label1.Text = "SISTEMA DE VENTA \"LOS 3 EPICI\"";
             this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // lblTitleChildForm
@@ -148,10 +146,9 @@ namespace Sol_PuntoVenta.Presentacion
             this.lblTitleChildForm.AutoSize = true;
             this.lblTitleChildForm.Font = new System.Drawing.Font("Verdana", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblTitleChildForm.ForeColor = System.Drawing.Color.White;
-            this.lblTitleChildForm.Location = new System.Drawing.Point(87, 50);
-            this.lblTitleChildForm.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.lblTitleChildForm.Location = new System.Drawing.Point(65, 41);
             this.lblTitleChildForm.Name = "lblTitleChildForm";
-            this.lblTitleChildForm.Size = new System.Drawing.Size(134, 25);
+            this.lblTitleChildForm.Size = new System.Drawing.Size(105, 18);
             this.lblTitleChildForm.TabIndex = 6;
             this.lblTitleChildForm.Text = "DashBoard";
             // 
@@ -161,11 +158,10 @@ namespace Sol_PuntoVenta.Presentacion
             this.iconCurrentChildForm.IconChar = FontAwesome.Sharp.IconChar.Home;
             this.iconCurrentChildForm.IconColor = System.Drawing.Color.White;
             this.iconCurrentChildForm.IconFont = FontAwesome.Sharp.IconFont.Auto;
-            this.iconCurrentChildForm.IconSize = 44;
-            this.iconCurrentChildForm.Location = new System.Drawing.Point(35, 38);
-            this.iconCurrentChildForm.Margin = new System.Windows.Forms.Padding(4);
+            this.iconCurrentChildForm.IconSize = 36;
+            this.iconCurrentChildForm.Location = new System.Drawing.Point(26, 31);
             this.iconCurrentChildForm.Name = "iconCurrentChildForm";
-            this.iconCurrentChildForm.Size = new System.Drawing.Size(48, 44);
+            this.iconCurrentChildForm.Size = new System.Drawing.Size(36, 36);
             this.iconCurrentChildForm.TabIndex = 5;
             this.iconCurrentChildForm.TabStop = false;
             // 
@@ -179,10 +175,9 @@ namespace Sol_PuntoVenta.Presentacion
             this.Btn_minimizar.IconColor = System.Drawing.Color.White;
             this.Btn_minimizar.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.Btn_minimizar.IconSize = 20;
-            this.Btn_minimizar.Location = new System.Drawing.Point(1293, 0);
-            this.Btn_minimizar.Margin = new System.Windows.Forms.Padding(4);
+            this.Btn_minimizar.Location = new System.Drawing.Point(663, 0);
             this.Btn_minimizar.Name = "Btn_minimizar";
-            this.Btn_minimizar.Size = new System.Drawing.Size(60, 31);
+            this.Btn_minimizar.Size = new System.Drawing.Size(45, 25);
             this.Btn_minimizar.TabIndex = 4;
             this.Btn_minimizar.UseVisualStyleBackColor = false;
             this.Btn_minimizar.Click += new System.EventHandler(this.Btn_minimizar_Click);
@@ -197,10 +192,9 @@ namespace Sol_PuntoVenta.Presentacion
             this.Btn_maximizar.IconColor = System.Drawing.Color.White;
             this.Btn_maximizar.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.Btn_maximizar.IconSize = 20;
-            this.Btn_maximizar.Location = new System.Drawing.Point(1353, 0);
-            this.Btn_maximizar.Margin = new System.Windows.Forms.Padding(4);
+            this.Btn_maximizar.Location = new System.Drawing.Point(708, 0);
             this.Btn_maximizar.Name = "Btn_maximizar";
-            this.Btn_maximizar.Size = new System.Drawing.Size(60, 31);
+            this.Btn_maximizar.Size = new System.Drawing.Size(45, 25);
             this.Btn_maximizar.TabIndex = 3;
             this.Btn_maximizar.UseVisualStyleBackColor = false;
             this.Btn_maximizar.Click += new System.EventHandler(this.Btn_maximizar_Click);
@@ -215,10 +209,9 @@ namespace Sol_PuntoVenta.Presentacion
             this.Btn_cerrar.IconColor = System.Drawing.Color.White;
             this.Btn_cerrar.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.Btn_cerrar.IconSize = 20;
-            this.Btn_cerrar.Location = new System.Drawing.Point(1413, 0);
-            this.Btn_cerrar.Margin = new System.Windows.Forms.Padding(4);
+            this.Btn_cerrar.Location = new System.Drawing.Point(753, 0);
             this.Btn_cerrar.Name = "Btn_cerrar";
-            this.Btn_cerrar.Size = new System.Drawing.Size(60, 31);
+            this.Btn_cerrar.Size = new System.Drawing.Size(45, 25);
             this.Btn_cerrar.TabIndex = 2;
             this.Btn_cerrar.UseVisualStyleBackColor = false;
             this.Btn_cerrar.Click += new System.EventHandler(this.Btn_cerrar_Click);
@@ -229,10 +222,9 @@ namespace Sol_PuntoVenta.Presentacion
             this.Pnl_escritorio.Controls.Add(this.panel1);
             this.Pnl_escritorio.Controls.Add(this.Pnl_datos);
             this.Pnl_escritorio.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.Pnl_escritorio.Location = new System.Drawing.Point(307, 92);
-            this.Pnl_escritorio.Margin = new System.Windows.Forms.Padding(4);
+            this.Pnl_escritorio.Location = new System.Drawing.Point(230, 75);
             this.Pnl_escritorio.Name = "Pnl_escritorio";
-            this.Pnl_escritorio.Size = new System.Drawing.Size(1473, 830);
+            this.Pnl_escritorio.Size = new System.Drawing.Size(798, 534);
             this.Pnl_escritorio.TabIndex = 3;
             // 
             // panel1
@@ -241,20 +233,18 @@ namespace Sol_PuntoVenta.Presentacion
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.panel1.Controls.Add(this.pictureBox4);
-            this.panel1.Location = new System.Drawing.Point(164, 33);
-            this.panel1.Margin = new System.Windows.Forms.Padding(4);
+            this.panel1.Location = new System.Drawing.Point(123, 27);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(1176, 605);
+            this.panel1.Size = new System.Drawing.Size(575, 352);
             this.panel1.TabIndex = 2;
             // 
             // pictureBox4
             // 
             this.pictureBox4.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.pictureBox4.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox4.Image")));
-            this.pictureBox4.Location = new System.Drawing.Point(268, 103);
-            this.pictureBox4.Margin = new System.Windows.Forms.Padding(4);
+            this.pictureBox4.Location = new System.Drawing.Point(0, 3);
             this.pictureBox4.Name = "pictureBox4";
-            this.pictureBox4.Size = new System.Drawing.Size(640, 353);
+            this.pictureBox4.Size = new System.Drawing.Size(575, 346);
             this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox4.TabIndex = 2;
             this.pictureBox4.TabStop = false;
@@ -265,10 +255,9 @@ namespace Sol_PuntoVenta.Presentacion
             this.Pnl_datos.Controls.Add(this.Gb_FechaHoraSistema);
             this.Pnl_datos.Controls.Add(this.Gb_sesioniniciada);
             this.Pnl_datos.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.Pnl_datos.Location = new System.Drawing.Point(0, 693);
-            this.Pnl_datos.Margin = new System.Windows.Forms.Padding(4);
+            this.Pnl_datos.Location = new System.Drawing.Point(0, 423);
             this.Pnl_datos.Name = "Pnl_datos";
-            this.Pnl_datos.Size = new System.Drawing.Size(1473, 137);
+            this.Pnl_datos.Size = new System.Drawing.Size(798, 111);
             this.Pnl_datos.TabIndex = 0;
             // 
             // Gb_FechaHoraSistema
@@ -277,11 +266,9 @@ namespace Sol_PuntoVenta.Presentacion
             this.Gb_FechaHoraSistema.Controls.Add(this.Lbl_Fecha);
             this.Gb_FechaHoraSistema.Controls.Add(this.Lbl_hora);
             this.Gb_FechaHoraSistema.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Gb_FechaHoraSistema.Location = new System.Drawing.Point(965, 21);
-            this.Gb_FechaHoraSistema.Margin = new System.Windows.Forms.Padding(4);
+            this.Gb_FechaHoraSistema.Location = new System.Drawing.Point(417, 17);
             this.Gb_FechaHoraSistema.Name = "Gb_FechaHoraSistema";
-            this.Gb_FechaHoraSistema.Padding = new System.Windows.Forms.Padding(4);
-            this.Gb_FechaHoraSistema.Size = new System.Drawing.Size(492, 92);
+            this.Gb_FechaHoraSistema.Size = new System.Drawing.Size(369, 75);
             this.Gb_FechaHoraSistema.TabIndex = 1;
             this.Gb_FechaHoraSistema.TabStop = false;
             this.Gb_FechaHoraSistema.Text = "Fecha y Hora";
@@ -290,10 +277,9 @@ namespace Sol_PuntoVenta.Presentacion
             // 
             this.Lbl_Fecha.Font = new System.Drawing.Font("Verdana", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Lbl_Fecha.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.Lbl_Fecha.Location = new System.Drawing.Point(8, 58);
-            this.Lbl_Fecha.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.Lbl_Fecha.Location = new System.Drawing.Point(6, 47);
             this.Lbl_Fecha.Name = "Lbl_Fecha";
-            this.Lbl_Fecha.Size = new System.Drawing.Size(476, 28);
+            this.Lbl_Fecha.Size = new System.Drawing.Size(357, 23);
             this.Lbl_Fecha.TabIndex = 3;
             this.Lbl_Fecha.Text = "Fecha";
             this.Lbl_Fecha.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -302,10 +288,9 @@ namespace Sol_PuntoVenta.Presentacion
             // 
             this.Lbl_hora.Font = new System.Drawing.Font("Verdana", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Lbl_hora.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.Lbl_hora.Location = new System.Drawing.Point(12, 20);
-            this.Lbl_hora.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.Lbl_hora.Location = new System.Drawing.Point(9, 16);
             this.Lbl_hora.Name = "Lbl_hora";
-            this.Lbl_hora.Size = new System.Drawing.Size(472, 33);
+            this.Lbl_hora.Size = new System.Drawing.Size(354, 27);
             this.Lbl_hora.TabIndex = 1;
             this.Lbl_hora.Text = "Hora";
             this.Lbl_hora.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -319,11 +304,9 @@ namespace Sol_PuntoVenta.Presentacion
             this.Gb_sesioniniciada.Controls.Add(this.Lbl_nombre_us);
             this.Gb_sesioniniciada.Controls.Add(this.pictureBox2);
             this.Gb_sesioniniciada.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Gb_sesioniniciada.Location = new System.Drawing.Point(9, 7);
-            this.Gb_sesioniniciada.Margin = new System.Windows.Forms.Padding(4);
+            this.Gb_sesioniniciada.Location = new System.Drawing.Point(7, 6);
             this.Gb_sesioniniciada.Name = "Gb_sesioniniciada";
-            this.Gb_sesioniniciada.Padding = new System.Windows.Forms.Padding(4);
-            this.Gb_sesioniniciada.Size = new System.Drawing.Size(421, 126);
+            this.Gb_sesioniniciada.Size = new System.Drawing.Size(316, 102);
             this.Gb_sesioniniciada.TabIndex = 0;
             this.Gb_sesioniniciada.TabStop = false;
             this.Gb_sesioniniciada.Text = "Sesión iniciada";
@@ -333,10 +316,9 @@ namespace Sol_PuntoVenta.Presentacion
             this.label2.Cursor = System.Windows.Forms.Cursors.Hand;
             this.label2.Font = new System.Drawing.Font("Verdana", 8.25F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.ForeColor = System.Drawing.Color.Crimson;
-            this.label2.Location = new System.Drawing.Point(16, 90);
-            this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label2.Location = new System.Drawing.Point(12, 73);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(337, 28);
+            this.label2.Size = new System.Drawing.Size(253, 23);
             this.label2.TabIndex = 7;
             this.label2.Text = "::: Actualizar contraseña";
             this.label2.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
@@ -346,10 +328,9 @@ namespace Sol_PuntoVenta.Presentacion
             // 
             this.pictureBox5.Cursor = System.Windows.Forms.Cursors.Hand;
             this.pictureBox5.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox5.Image")));
-            this.pictureBox5.Location = new System.Drawing.Point(368, 90);
-            this.pictureBox5.Margin = new System.Windows.Forms.Padding(4);
+            this.pictureBox5.Location = new System.Drawing.Point(276, 73);
             this.pictureBox5.Name = "pictureBox5";
-            this.pictureBox5.Size = new System.Drawing.Size(29, 27);
+            this.pictureBox5.Size = new System.Drawing.Size(22, 22);
             this.pictureBox5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox5.TabIndex = 6;
             this.pictureBox5.TabStop = false;
@@ -358,10 +339,9 @@ namespace Sol_PuntoVenta.Presentacion
             // Lbl_descripcion_cr
             // 
             this.Lbl_descripcion_cr.Font = new System.Drawing.Font("Verdana", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Lbl_descripcion_cr.Location = new System.Drawing.Point(76, 53);
-            this.Lbl_descripcion_cr.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.Lbl_descripcion_cr.Location = new System.Drawing.Point(57, 43);
             this.Lbl_descripcion_cr.Name = "Lbl_descripcion_cr";
-            this.Lbl_descripcion_cr.Size = new System.Drawing.Size(337, 28);
+            this.Lbl_descripcion_cr.Size = new System.Drawing.Size(253, 23);
             this.Lbl_descripcion_cr.TabIndex = 3;
             this.Lbl_descripcion_cr.Text = "Descripcion_cr";
             this.Lbl_descripcion_cr.TextAlign = System.Drawing.ContentAlignment.BottomLeft;
@@ -369,10 +349,9 @@ namespace Sol_PuntoVenta.Presentacion
             // pictureBox3
             // 
             this.pictureBox3.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox3.Image")));
-            this.pictureBox3.Location = new System.Drawing.Point(44, 62);
-            this.pictureBox3.Margin = new System.Windows.Forms.Padding(4);
+            this.pictureBox3.Location = new System.Drawing.Point(33, 50);
             this.pictureBox3.Name = "pictureBox3";
-            this.pictureBox3.Size = new System.Drawing.Size(24, 22);
+            this.pictureBox3.Size = new System.Drawing.Size(18, 18);
             this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox3.TabIndex = 2;
             this.pictureBox3.TabStop = false;
@@ -380,10 +359,9 @@ namespace Sol_PuntoVenta.Presentacion
             // Lbl_nombre_us
             // 
             this.Lbl_nombre_us.Font = new System.Drawing.Font("Verdana", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Lbl_nombre_us.Location = new System.Drawing.Point(76, 25);
-            this.Lbl_nombre_us.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.Lbl_nombre_us.Location = new System.Drawing.Point(57, 20);
             this.Lbl_nombre_us.Name = "Lbl_nombre_us";
-            this.Lbl_nombre_us.Size = new System.Drawing.Size(337, 28);
+            this.Lbl_nombre_us.Size = new System.Drawing.Size(253, 23);
             this.Lbl_nombre_us.TabIndex = 1;
             this.Lbl_nombre_us.Text = "nombre_us";
             this.Lbl_nombre_us.TextAlign = System.Drawing.ContentAlignment.BottomLeft;
@@ -391,10 +369,9 @@ namespace Sol_PuntoVenta.Presentacion
             // pictureBox2
             // 
             this.pictureBox2.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox2.Image")));
-            this.pictureBox2.Location = new System.Drawing.Point(44, 32);
-            this.pictureBox2.Margin = new System.Windows.Forms.Padding(4);
+            this.pictureBox2.Location = new System.Drawing.Point(33, 26);
             this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(24, 22);
+            this.pictureBox2.Size = new System.Drawing.Size(18, 18);
             this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox2.TabIndex = 0;
             this.pictureBox2.TabStop = false;
@@ -405,18 +382,16 @@ namespace Sol_PuntoVenta.Presentacion
             this.Pnl_logo.Controls.Add(this.pictureBox1);
             this.Pnl_logo.Dock = System.Windows.Forms.DockStyle.Top;
             this.Pnl_logo.Location = new System.Drawing.Point(0, 0);
-            this.Pnl_logo.Margin = new System.Windows.Forms.Padding(4);
             this.Pnl_logo.Name = "Pnl_logo";
-            this.Pnl_logo.Size = new System.Drawing.Size(286, 190);
+            this.Pnl_logo.Size = new System.Drawing.Size(213, 154);
             this.Pnl_logo.TabIndex = 1;
             // 
             // pictureBox1
             // 
             this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
-            this.pictureBox1.Location = new System.Drawing.Point(59, 38);
-            this.pictureBox1.Margin = new System.Windows.Forms.Padding(4);
+            this.pictureBox1.Location = new System.Drawing.Point(29, 0);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(164, 124);
+            this.pictureBox1.Size = new System.Drawing.Size(155, 154);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
@@ -435,11 +410,10 @@ namespace Sol_PuntoVenta.Presentacion
             this.Btn_dashboard.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.Btn_dashboard.IconSize = 30;
             this.Btn_dashboard.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.Btn_dashboard.Location = new System.Drawing.Point(0, 190);
-            this.Btn_dashboard.Margin = new System.Windows.Forms.Padding(4);
+            this.Btn_dashboard.Location = new System.Drawing.Point(0, 154);
             this.Btn_dashboard.Name = "Btn_dashboard";
-            this.Btn_dashboard.Padding = new System.Windows.Forms.Padding(13, 0, 0, 0);
-            this.Btn_dashboard.Size = new System.Drawing.Size(286, 57);
+            this.Btn_dashboard.Padding = new System.Windows.Forms.Padding(10, 0, 0, 0);
+            this.Btn_dashboard.Size = new System.Drawing.Size(213, 46);
             this.Btn_dashboard.TabIndex = 2;
             this.Btn_dashboard.Tag = "";
             this.Btn_dashboard.Text = "  DashBoard";
@@ -461,11 +435,10 @@ namespace Sol_PuntoVenta.Presentacion
             this.Btn_procesos.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.Btn_procesos.IconSize = 30;
             this.Btn_procesos.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.Btn_procesos.Location = new System.Drawing.Point(0, 247);
-            this.Btn_procesos.Margin = new System.Windows.Forms.Padding(4);
+            this.Btn_procesos.Location = new System.Drawing.Point(0, 200);
             this.Btn_procesos.Name = "Btn_procesos";
-            this.Btn_procesos.Padding = new System.Windows.Forms.Padding(13, 0, 0, 0);
-            this.Btn_procesos.Size = new System.Drawing.Size(286, 57);
+            this.Btn_procesos.Padding = new System.Windows.Forms.Padding(10, 0, 0, 0);
+            this.Btn_procesos.Size = new System.Drawing.Size(213, 46);
             this.Btn_procesos.TabIndex = 3;
             this.Btn_procesos.Tag = "";
             this.Btn_procesos.Text = "  Procesos";
@@ -481,10 +454,9 @@ namespace Sol_PuntoVenta.Presentacion
             this.Pnl_procesos.Controls.Add(this.PR_BoletasFacturas);
             this.Pnl_procesos.Controls.Add(this.PR_registrar_pedido);
             this.Pnl_procesos.Dock = System.Windows.Forms.DockStyle.Top;
-            this.Pnl_procesos.Location = new System.Drawing.Point(0, 304);
-            this.Pnl_procesos.Margin = new System.Windows.Forms.Padding(4);
+            this.Pnl_procesos.Location = new System.Drawing.Point(0, 246);
             this.Pnl_procesos.Name = "Pnl_procesos";
-            this.Pnl_procesos.Size = new System.Drawing.Size(286, 172);
+            this.Pnl_procesos.Size = new System.Drawing.Size(213, 140);
             this.Pnl_procesos.TabIndex = 0;
             // 
             // PR_cierreturno
@@ -500,11 +472,10 @@ namespace Sol_PuntoVenta.Presentacion
             this.PR_cierreturno.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.PR_cierreturno.IconSize = 30;
             this.PR_cierreturno.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.PR_cierreturno.Location = new System.Drawing.Point(0, 114);
-            this.PR_cierreturno.Margin = new System.Windows.Forms.Padding(4);
+            this.PR_cierreturno.Location = new System.Drawing.Point(0, 92);
             this.PR_cierreturno.Name = "PR_cierreturno";
-            this.PR_cierreturno.Padding = new System.Windows.Forms.Padding(40, 0, 0, 0);
-            this.PR_cierreturno.Size = new System.Drawing.Size(286, 59);
+            this.PR_cierreturno.Padding = new System.Windows.Forms.Padding(30, 0, 0, 0);
+            this.PR_cierreturno.Size = new System.Drawing.Size(213, 48);
             this.PR_cierreturno.TabIndex = 7;
             this.PR_cierreturno.Tag = "";
             this.PR_cierreturno.Text = " Gestión de Cierre";
@@ -526,11 +497,10 @@ namespace Sol_PuntoVenta.Presentacion
             this.PR_BoletasFacturas.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.PR_BoletasFacturas.IconSize = 30;
             this.PR_BoletasFacturas.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.PR_BoletasFacturas.Location = new System.Drawing.Point(0, 57);
-            this.PR_BoletasFacturas.Margin = new System.Windows.Forms.Padding(4);
+            this.PR_BoletasFacturas.Location = new System.Drawing.Point(0, 46);
             this.PR_BoletasFacturas.Name = "PR_BoletasFacturas";
-            this.PR_BoletasFacturas.Padding = new System.Windows.Forms.Padding(40, 0, 0, 0);
-            this.PR_BoletasFacturas.Size = new System.Drawing.Size(286, 57);
+            this.PR_BoletasFacturas.Padding = new System.Windows.Forms.Padding(30, 0, 0, 0);
+            this.PR_BoletasFacturas.Size = new System.Drawing.Size(213, 46);
             this.PR_BoletasFacturas.TabIndex = 5;
             this.PR_BoletasFacturas.Tag = "";
             this.PR_BoletasFacturas.Text = "Consultas Boletas y Facturas";
@@ -553,10 +523,9 @@ namespace Sol_PuntoVenta.Presentacion
             this.PR_registrar_pedido.IconSize = 30;
             this.PR_registrar_pedido.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.PR_registrar_pedido.Location = new System.Drawing.Point(0, 0);
-            this.PR_registrar_pedido.Margin = new System.Windows.Forms.Padding(4);
             this.PR_registrar_pedido.Name = "PR_registrar_pedido";
-            this.PR_registrar_pedido.Padding = new System.Windows.Forms.Padding(40, 0, 0, 0);
-            this.PR_registrar_pedido.Size = new System.Drawing.Size(286, 57);
+            this.PR_registrar_pedido.Padding = new System.Windows.Forms.Padding(30, 0, 0, 0);
+            this.PR_registrar_pedido.Size = new System.Drawing.Size(213, 46);
             this.PR_registrar_pedido.TabIndex = 4;
             this.PR_registrar_pedido.Tag = "";
             this.PR_registrar_pedido.Text = "  Registrar Pedido";
@@ -578,11 +547,10 @@ namespace Sol_PuntoVenta.Presentacion
             this.Btn_reportes.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.Btn_reportes.IconSize = 30;
             this.Btn_reportes.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.Btn_reportes.Location = new System.Drawing.Point(0, 476);
-            this.Btn_reportes.Margin = new System.Windows.Forms.Padding(4);
+            this.Btn_reportes.Location = new System.Drawing.Point(0, 386);
             this.Btn_reportes.Name = "Btn_reportes";
-            this.Btn_reportes.Padding = new System.Windows.Forms.Padding(13, 0, 0, 0);
-            this.Btn_reportes.Size = new System.Drawing.Size(286, 57);
+            this.Btn_reportes.Padding = new System.Windows.Forms.Padding(10, 0, 0, 0);
+            this.Btn_reportes.Size = new System.Drawing.Size(213, 46);
             this.Btn_reportes.TabIndex = 4;
             this.Btn_reportes.Tag = "";
             this.Btn_reportes.Text = "  Reportes";
@@ -601,10 +569,9 @@ namespace Sol_PuntoVenta.Presentacion
             this.Pnl_reportes.Controls.Add(this.iconButton11);
             this.Pnl_reportes.Controls.Add(this.iconButton12);
             this.Pnl_reportes.Dock = System.Windows.Forms.DockStyle.Top;
-            this.Pnl_reportes.Location = new System.Drawing.Point(0, 533);
-            this.Pnl_reportes.Margin = new System.Windows.Forms.Padding(4);
+            this.Pnl_reportes.Location = new System.Drawing.Point(0, 432);
             this.Pnl_reportes.Name = "Pnl_reportes";
-            this.Pnl_reportes.Size = new System.Drawing.Size(286, 343);
+            this.Pnl_reportes.Size = new System.Drawing.Size(213, 279);
             this.Pnl_reportes.TabIndex = 5;
             // 
             // iconButton7
@@ -620,11 +587,10 @@ namespace Sol_PuntoVenta.Presentacion
             this.iconButton7.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.iconButton7.IconSize = 30;
             this.iconButton7.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.iconButton7.Location = new System.Drawing.Point(0, 285);
-            this.iconButton7.Margin = new System.Windows.Forms.Padding(4);
+            this.iconButton7.Location = new System.Drawing.Point(0, 230);
             this.iconButton7.Name = "iconButton7";
-            this.iconButton7.Padding = new System.Windows.Forms.Padding(40, 0, 0, 0);
-            this.iconButton7.Size = new System.Drawing.Size(286, 41);
+            this.iconButton7.Padding = new System.Windows.Forms.Padding(30, 0, 0, 0);
+            this.iconButton7.Size = new System.Drawing.Size(213, 33);
             this.iconButton7.TabIndex = 9;
             this.iconButton7.Tag = "";
             this.iconButton7.Text = "  Reporte 6";
@@ -646,11 +612,10 @@ namespace Sol_PuntoVenta.Presentacion
             this.iconButton8.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.iconButton8.IconSize = 30;
             this.iconButton8.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.iconButton8.Location = new System.Drawing.Point(0, 228);
-            this.iconButton8.Margin = new System.Windows.Forms.Padding(4);
+            this.iconButton8.Location = new System.Drawing.Point(0, 184);
             this.iconButton8.Name = "iconButton8";
-            this.iconButton8.Padding = new System.Windows.Forms.Padding(40, 0, 0, 0);
-            this.iconButton8.Size = new System.Drawing.Size(286, 57);
+            this.iconButton8.Padding = new System.Windows.Forms.Padding(30, 0, 0, 0);
+            this.iconButton8.Size = new System.Drawing.Size(213, 46);
             this.iconButton8.TabIndex = 8;
             this.iconButton8.Tag = "";
             this.iconButton8.Text = "Reportes Personalizados";
@@ -672,11 +637,10 @@ namespace Sol_PuntoVenta.Presentacion
             this.iconButton9.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.iconButton9.IconSize = 30;
             this.iconButton9.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.iconButton9.Location = new System.Drawing.Point(0, 171);
-            this.iconButton9.Margin = new System.Windows.Forms.Padding(4);
+            this.iconButton9.Location = new System.Drawing.Point(0, 138);
             this.iconButton9.Name = "iconButton9";
-            this.iconButton9.Padding = new System.Windows.Forms.Padding(40, 0, 0, 0);
-            this.iconButton9.Size = new System.Drawing.Size(286, 57);
+            this.iconButton9.Padding = new System.Windows.Forms.Padding(30, 0, 0, 0);
+            this.iconButton9.Size = new System.Drawing.Size(213, 46);
             this.iconButton9.TabIndex = 7;
             this.iconButton9.Tag = "";
             this.iconButton9.Text = "Facturas de Venta por fecha";
@@ -698,11 +662,10 @@ namespace Sol_PuntoVenta.Presentacion
             this.iconButton10.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.iconButton10.IconSize = 30;
             this.iconButton10.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.iconButton10.Location = new System.Drawing.Point(0, 114);
-            this.iconButton10.Margin = new System.Windows.Forms.Padding(4);
+            this.iconButton10.Location = new System.Drawing.Point(0, 92);
             this.iconButton10.Name = "iconButton10";
-            this.iconButton10.Padding = new System.Windows.Forms.Padding(40, 0, 0, 0);
-            this.iconButton10.Size = new System.Drawing.Size(286, 57);
+            this.iconButton10.Padding = new System.Windows.Forms.Padding(30, 0, 0, 0);
+            this.iconButton10.Size = new System.Drawing.Size(213, 46);
             this.iconButton10.TabIndex = 6;
             this.iconButton10.Tag = "";
             this.iconButton10.Text = "Boletas de Venta por fecha";
@@ -724,11 +687,10 @@ namespace Sol_PuntoVenta.Presentacion
             this.iconButton11.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.iconButton11.IconSize = 30;
             this.iconButton11.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.iconButton11.Location = new System.Drawing.Point(0, 57);
-            this.iconButton11.Margin = new System.Windows.Forms.Padding(4);
+            this.iconButton11.Location = new System.Drawing.Point(0, 46);
             this.iconButton11.Name = "iconButton11";
-            this.iconButton11.Padding = new System.Windows.Forms.Padding(40, 0, 0, 0);
-            this.iconButton11.Size = new System.Drawing.Size(286, 57);
+            this.iconButton11.Padding = new System.Windows.Forms.Padding(30, 0, 0, 0);
+            this.iconButton11.Size = new System.Drawing.Size(213, 46);
             this.iconButton11.TabIndex = 5;
             this.iconButton11.Tag = "";
             this.iconButton11.Text = "Tickets anulados por Punto de Venta";
@@ -751,10 +713,9 @@ namespace Sol_PuntoVenta.Presentacion
             this.iconButton12.IconSize = 30;
             this.iconButton12.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.iconButton12.Location = new System.Drawing.Point(0, 0);
-            this.iconButton12.Margin = new System.Windows.Forms.Padding(4);
             this.iconButton12.Name = "iconButton12";
-            this.iconButton12.Padding = new System.Windows.Forms.Padding(40, 0, 0, 0);
-            this.iconButton12.Size = new System.Drawing.Size(286, 57);
+            this.iconButton12.Padding = new System.Windows.Forms.Padding(30, 0, 0, 0);
+            this.iconButton12.Size = new System.Drawing.Size(213, 46);
             this.iconButton12.TabIndex = 4;
             this.iconButton12.Tag = "";
             this.iconButton12.Text = "Tickets por Punto de Venta";
@@ -780,9 +741,8 @@ namespace Sol_PuntoVenta.Presentacion
             this.Pnl_menu.Controls.Add(this.Pnl_logo);
             this.Pnl_menu.Dock = System.Windows.Forms.DockStyle.Left;
             this.Pnl_menu.Location = new System.Drawing.Point(0, 0);
-            this.Pnl_menu.Margin = new System.Windows.Forms.Padding(4);
             this.Pnl_menu.Name = "Pnl_menu";
-            this.Pnl_menu.Size = new System.Drawing.Size(307, 922);
+            this.Pnl_menu.Size = new System.Drawing.Size(230, 609);
             this.Pnl_menu.TabIndex = 0;
             // 
             // Pnl_configuracion
@@ -797,10 +757,9 @@ namespace Sol_PuntoVenta.Presentacion
             this.Pnl_configuracion.Controls.Add(this.CO_cargos);
             this.Pnl_configuracion.Controls.Add(this.CO_usuarios);
             this.Pnl_configuracion.Dock = System.Windows.Forms.DockStyle.Top;
-            this.Pnl_configuracion.Location = new System.Drawing.Point(0, 1513);
-            this.Pnl_configuracion.Margin = new System.Windows.Forms.Padding(4);
+            this.Pnl_configuracion.Location = new System.Drawing.Point(0, 1228);
             this.Pnl_configuracion.Name = "Pnl_configuracion";
-            this.Pnl_configuracion.Size = new System.Drawing.Size(286, 492);
+            this.Pnl_configuracion.Size = new System.Drawing.Size(213, 400);
             this.Pnl_configuracion.TabIndex = 10;
             // 
             // CO_empresa
@@ -816,11 +775,10 @@ namespace Sol_PuntoVenta.Presentacion
             this.CO_empresa.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.CO_empresa.IconSize = 30;
             this.CO_empresa.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.CO_empresa.Location = new System.Drawing.Point(0, 399);
-            this.CO_empresa.Margin = new System.Windows.Forms.Padding(4);
+            this.CO_empresa.Location = new System.Drawing.Point(0, 322);
             this.CO_empresa.Name = "CO_empresa";
-            this.CO_empresa.Padding = new System.Windows.Forms.Padding(40, 0, 0, 0);
-            this.CO_empresa.Size = new System.Drawing.Size(286, 57);
+            this.CO_empresa.Padding = new System.Windows.Forms.Padding(30, 0, 0, 0);
+            this.CO_empresa.Size = new System.Drawing.Size(213, 46);
             this.CO_empresa.TabIndex = 21;
             this.CO_empresa.Tag = "";
             this.CO_empresa.Text = "Empresa";
@@ -842,11 +800,10 @@ namespace Sol_PuntoVenta.Presentacion
             this.CO_distritos.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.CO_distritos.IconSize = 30;
             this.CO_distritos.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.CO_distritos.Location = new System.Drawing.Point(0, 342);
-            this.CO_distritos.Margin = new System.Windows.Forms.Padding(4);
+            this.CO_distritos.Location = new System.Drawing.Point(0, 276);
             this.CO_distritos.Name = "CO_distritos";
-            this.CO_distritos.Padding = new System.Windows.Forms.Padding(40, 0, 0, 0);
-            this.CO_distritos.Size = new System.Drawing.Size(286, 57);
+            this.CO_distritos.Padding = new System.Windows.Forms.Padding(30, 0, 0, 0);
+            this.CO_distritos.Size = new System.Drawing.Size(213, 46);
             this.CO_distritos.TabIndex = 20;
             this.CO_distritos.Tag = "";
             this.CO_distritos.Text = "Distritos";
@@ -868,11 +825,10 @@ namespace Sol_PuntoVenta.Presentacion
             this.CO_provincias.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.CO_provincias.IconSize = 30;
             this.CO_provincias.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.CO_provincias.Location = new System.Drawing.Point(0, 285);
-            this.CO_provincias.Margin = new System.Windows.Forms.Padding(4);
+            this.CO_provincias.Location = new System.Drawing.Point(0, 230);
             this.CO_provincias.Name = "CO_provincias";
-            this.CO_provincias.Padding = new System.Windows.Forms.Padding(40, 0, 0, 0);
-            this.CO_provincias.Size = new System.Drawing.Size(286, 57);
+            this.CO_provincias.Padding = new System.Windows.Forms.Padding(30, 0, 0, 0);
+            this.CO_provincias.Size = new System.Drawing.Size(213, 46);
             this.CO_provincias.TabIndex = 19;
             this.CO_provincias.Tag = "";
             this.CO_provincias.Text = "Provincias";
@@ -894,11 +850,10 @@ namespace Sol_PuntoVenta.Presentacion
             this.CO_departamentos.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.CO_departamentos.IconSize = 30;
             this.CO_departamentos.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.CO_departamentos.Location = new System.Drawing.Point(0, 228);
-            this.CO_departamentos.Margin = new System.Windows.Forms.Padding(4);
+            this.CO_departamentos.Location = new System.Drawing.Point(0, 184);
             this.CO_departamentos.Name = "CO_departamentos";
-            this.CO_departamentos.Padding = new System.Windows.Forms.Padding(40, 0, 0, 0);
-            this.CO_departamentos.Size = new System.Drawing.Size(286, 57);
+            this.CO_departamentos.Padding = new System.Windows.Forms.Padding(30, 0, 0, 0);
+            this.CO_departamentos.Size = new System.Drawing.Size(213, 46);
             this.CO_departamentos.TabIndex = 18;
             this.CO_departamentos.Tag = "";
             this.CO_departamentos.Text = "Departamentos";
@@ -920,11 +875,10 @@ namespace Sol_PuntoVenta.Presentacion
             this.CO_Imagenes_pred.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.CO_Imagenes_pred.IconSize = 30;
             this.CO_Imagenes_pred.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.CO_Imagenes_pred.Location = new System.Drawing.Point(0, 171);
-            this.CO_Imagenes_pred.Margin = new System.Windows.Forms.Padding(4);
+            this.CO_Imagenes_pred.Location = new System.Drawing.Point(0, 138);
             this.CO_Imagenes_pred.Name = "CO_Imagenes_pred";
-            this.CO_Imagenes_pred.Padding = new System.Windows.Forms.Padding(40, 0, 0, 0);
-            this.CO_Imagenes_pred.Size = new System.Drawing.Size(286, 57);
+            this.CO_Imagenes_pred.Padding = new System.Windows.Forms.Padding(30, 0, 0, 0);
+            this.CO_Imagenes_pred.Size = new System.Drawing.Size(213, 46);
             this.CO_Imagenes_pred.TabIndex = 17;
             this.CO_Imagenes_pred.Tag = "";
             this.CO_Imagenes_pred.Text = "Imágenes Predeterminadas";
@@ -946,11 +900,10 @@ namespace Sol_PuntoVenta.Presentacion
             this.CO_areas.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.CO_areas.IconSize = 30;
             this.CO_areas.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.CO_areas.Location = new System.Drawing.Point(0, 114);
-            this.CO_areas.Margin = new System.Windows.Forms.Padding(4);
+            this.CO_areas.Location = new System.Drawing.Point(0, 92);
             this.CO_areas.Name = "CO_areas";
-            this.CO_areas.Padding = new System.Windows.Forms.Padding(40, 0, 0, 0);
-            this.CO_areas.Size = new System.Drawing.Size(286, 57);
+            this.CO_areas.Padding = new System.Windows.Forms.Padding(30, 0, 0, 0);
+            this.CO_areas.Size = new System.Drawing.Size(213, 46);
             this.CO_areas.TabIndex = 16;
             this.CO_areas.Tag = "";
             this.CO_areas.Text = "Áreas";
@@ -972,11 +925,10 @@ namespace Sol_PuntoVenta.Presentacion
             this.CO_cargos.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.CO_cargos.IconSize = 30;
             this.CO_cargos.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.CO_cargos.Location = new System.Drawing.Point(0, 57);
-            this.CO_cargos.Margin = new System.Windows.Forms.Padding(4);
+            this.CO_cargos.Location = new System.Drawing.Point(0, 46);
             this.CO_cargos.Name = "CO_cargos";
-            this.CO_cargos.Padding = new System.Windows.Forms.Padding(40, 0, 0, 0);
-            this.CO_cargos.Size = new System.Drawing.Size(286, 57);
+            this.CO_cargos.Padding = new System.Windows.Forms.Padding(30, 0, 0, 0);
+            this.CO_cargos.Size = new System.Drawing.Size(213, 46);
             this.CO_cargos.TabIndex = 14;
             this.CO_cargos.Tag = "";
             this.CO_cargos.Text = "Cargos";
@@ -999,10 +951,9 @@ namespace Sol_PuntoVenta.Presentacion
             this.CO_usuarios.IconSize = 30;
             this.CO_usuarios.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.CO_usuarios.Location = new System.Drawing.Point(0, 0);
-            this.CO_usuarios.Margin = new System.Windows.Forms.Padding(4);
             this.CO_usuarios.Name = "CO_usuarios";
-            this.CO_usuarios.Padding = new System.Windows.Forms.Padding(40, 0, 0, 0);
-            this.CO_usuarios.Size = new System.Drawing.Size(286, 57);
+            this.CO_usuarios.Padding = new System.Windows.Forms.Padding(30, 0, 0, 0);
+            this.CO_usuarios.Size = new System.Drawing.Size(213, 46);
             this.CO_usuarios.TabIndex = 4;
             this.CO_usuarios.Tag = "";
             this.CO_usuarios.Text = "Usuarios";
@@ -1024,11 +975,10 @@ namespace Sol_PuntoVenta.Presentacion
             this.Btn_configuracion.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.Btn_configuracion.IconSize = 30;
             this.Btn_configuracion.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.Btn_configuracion.Location = new System.Drawing.Point(0, 1456);
-            this.Btn_configuracion.Margin = new System.Windows.Forms.Padding(4);
+            this.Btn_configuracion.Location = new System.Drawing.Point(0, 1182);
             this.Btn_configuracion.Name = "Btn_configuracion";
-            this.Btn_configuracion.Padding = new System.Windows.Forms.Padding(13, 0, 0, 0);
-            this.Btn_configuracion.Size = new System.Drawing.Size(286, 57);
+            this.Btn_configuracion.Padding = new System.Windows.Forms.Padding(10, 0, 0, 0);
+            this.Btn_configuracion.Size = new System.Drawing.Size(213, 46);
             this.Btn_configuracion.TabIndex = 9;
             this.Btn_configuracion.Tag = "";
             this.Btn_configuracion.Text = "Configuraciones";
@@ -1050,10 +1000,9 @@ namespace Sol_PuntoVenta.Presentacion
             this.Pnl_datosmaestros.Controls.Add(this.DM_productos);
             this.Pnl_datosmaestros.Controls.Add(this.DM_puntoventa);
             this.Pnl_datosmaestros.Dock = System.Windows.Forms.DockStyle.Top;
-            this.Pnl_datosmaestros.Location = new System.Drawing.Point(0, 933);
-            this.Pnl_datosmaestros.Margin = new System.Windows.Forms.Padding(4);
+            this.Pnl_datosmaestros.Location = new System.Drawing.Point(0, 757);
             this.Pnl_datosmaestros.Name = "Pnl_datosmaestros";
-            this.Pnl_datosmaestros.Size = new System.Drawing.Size(286, 523);
+            this.Pnl_datosmaestros.Size = new System.Drawing.Size(213, 425);
             this.Pnl_datosmaestros.TabIndex = 8;
             // 
             // DM_clientes
@@ -1069,11 +1018,10 @@ namespace Sol_PuntoVenta.Presentacion
             this.DM_clientes.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.DM_clientes.IconSize = 30;
             this.DM_clientes.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.DM_clientes.Location = new System.Drawing.Point(0, 456);
-            this.DM_clientes.Margin = new System.Windows.Forms.Padding(4);
+            this.DM_clientes.Location = new System.Drawing.Point(0, 368);
             this.DM_clientes.Name = "DM_clientes";
-            this.DM_clientes.Padding = new System.Windows.Forms.Padding(40, 0, 0, 0);
-            this.DM_clientes.Size = new System.Drawing.Size(286, 57);
+            this.DM_clientes.Padding = new System.Windows.Forms.Padding(30, 0, 0, 0);
+            this.DM_clientes.Size = new System.Drawing.Size(213, 46);
             this.DM_clientes.TabIndex = 18;
             this.DM_clientes.Tag = "";
             this.DM_clientes.Text = "Clientes";
@@ -1095,11 +1043,10 @@ namespace Sol_PuntoVenta.Presentacion
             this.DM_medidas.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.DM_medidas.IconSize = 30;
             this.DM_medidas.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.DM_medidas.Location = new System.Drawing.Point(0, 399);
-            this.DM_medidas.Margin = new System.Windows.Forms.Padding(4);
+            this.DM_medidas.Location = new System.Drawing.Point(0, 322);
             this.DM_medidas.Name = "DM_medidas";
-            this.DM_medidas.Padding = new System.Windows.Forms.Padding(40, 0, 0, 0);
-            this.DM_medidas.Size = new System.Drawing.Size(286, 57);
+            this.DM_medidas.Padding = new System.Windows.Forms.Padding(30, 0, 0, 0);
+            this.DM_medidas.Size = new System.Drawing.Size(213, 46);
             this.DM_medidas.TabIndex = 17;
             this.DM_medidas.Tag = "";
             this.DM_medidas.Text = "Unidades de Medidas";
@@ -1121,11 +1068,10 @@ namespace Sol_PuntoVenta.Presentacion
             this.DM_mesas.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.DM_mesas.IconSize = 30;
             this.DM_mesas.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.DM_mesas.Location = new System.Drawing.Point(0, 342);
-            this.DM_mesas.Margin = new System.Windows.Forms.Padding(4);
+            this.DM_mesas.Location = new System.Drawing.Point(0, 276);
             this.DM_mesas.Name = "DM_mesas";
-            this.DM_mesas.Padding = new System.Windows.Forms.Padding(40, 0, 0, 0);
-            this.DM_mesas.Size = new System.Drawing.Size(286, 57);
+            this.DM_mesas.Padding = new System.Windows.Forms.Padding(30, 0, 0, 0);
+            this.DM_mesas.Size = new System.Drawing.Size(213, 46);
             this.DM_mesas.TabIndex = 16;
             this.DM_mesas.Tag = "";
             this.DM_mesas.Text = "  Mesas";
@@ -1147,11 +1093,10 @@ namespace Sol_PuntoVenta.Presentacion
             this.DM_subfamilias.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.DM_subfamilias.IconSize = 30;
             this.DM_subfamilias.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.DM_subfamilias.Location = new System.Drawing.Point(0, 285);
-            this.DM_subfamilias.Margin = new System.Windows.Forms.Padding(4);
+            this.DM_subfamilias.Location = new System.Drawing.Point(0, 230);
             this.DM_subfamilias.Name = "DM_subfamilias";
-            this.DM_subfamilias.Padding = new System.Windows.Forms.Padding(40, 0, 0, 0);
-            this.DM_subfamilias.Size = new System.Drawing.Size(286, 57);
+            this.DM_subfamilias.Padding = new System.Windows.Forms.Padding(30, 0, 0, 0);
+            this.DM_subfamilias.Size = new System.Drawing.Size(213, 46);
             this.DM_subfamilias.TabIndex = 15;
             this.DM_subfamilias.Tag = "";
             this.DM_subfamilias.Text = "  SubFamilias";
@@ -1173,11 +1118,10 @@ namespace Sol_PuntoVenta.Presentacion
             this.DM_familias.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.DM_familias.IconSize = 30;
             this.DM_familias.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.DM_familias.Location = new System.Drawing.Point(0, 228);
-            this.DM_familias.Margin = new System.Windows.Forms.Padding(4);
+            this.DM_familias.Location = new System.Drawing.Point(0, 184);
             this.DM_familias.Name = "DM_familias";
-            this.DM_familias.Padding = new System.Windows.Forms.Padding(40, 0, 0, 0);
-            this.DM_familias.Size = new System.Drawing.Size(286, 57);
+            this.DM_familias.Padding = new System.Windows.Forms.Padding(30, 0, 0, 0);
+            this.DM_familias.Size = new System.Drawing.Size(213, 46);
             this.DM_familias.TabIndex = 14;
             this.DM_familias.Tag = "";
             this.DM_familias.Text = "  Familias";
@@ -1199,11 +1143,10 @@ namespace Sol_PuntoVenta.Presentacion
             this.DM_categorias.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.DM_categorias.IconSize = 30;
             this.DM_categorias.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.DM_categorias.Location = new System.Drawing.Point(0, 171);
-            this.DM_categorias.Margin = new System.Windows.Forms.Padding(4);
+            this.DM_categorias.Location = new System.Drawing.Point(0, 138);
             this.DM_categorias.Name = "DM_categorias";
-            this.DM_categorias.Padding = new System.Windows.Forms.Padding(40, 0, 0, 0);
-            this.DM_categorias.Size = new System.Drawing.Size(286, 57);
+            this.DM_categorias.Padding = new System.Windows.Forms.Padding(30, 0, 0, 0);
+            this.DM_categorias.Size = new System.Drawing.Size(213, 46);
             this.DM_categorias.TabIndex = 13;
             this.DM_categorias.Tag = "";
             this.DM_categorias.Text = "  Categorias";
@@ -1225,11 +1168,10 @@ namespace Sol_PuntoVenta.Presentacion
             this.DM_areadespacho.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.DM_areadespacho.IconSize = 30;
             this.DM_areadespacho.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.DM_areadespacho.Location = new System.Drawing.Point(0, 114);
-            this.DM_areadespacho.Margin = new System.Windows.Forms.Padding(4);
+            this.DM_areadespacho.Location = new System.Drawing.Point(0, 92);
             this.DM_areadespacho.Name = "DM_areadespacho";
-            this.DM_areadespacho.Padding = new System.Windows.Forms.Padding(40, 0, 0, 0);
-            this.DM_areadespacho.Size = new System.Drawing.Size(286, 57);
+            this.DM_areadespacho.Padding = new System.Windows.Forms.Padding(30, 0, 0, 0);
+            this.DM_areadespacho.Size = new System.Drawing.Size(213, 46);
             this.DM_areadespacho.TabIndex = 12;
             this.DM_areadespacho.Tag = "";
             this.DM_areadespacho.Text = "  Área Despacho";
@@ -1251,11 +1193,10 @@ namespace Sol_PuntoVenta.Presentacion
             this.DM_productos.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.DM_productos.IconSize = 30;
             this.DM_productos.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.DM_productos.Location = new System.Drawing.Point(0, 57);
-            this.DM_productos.Margin = new System.Windows.Forms.Padding(4);
+            this.DM_productos.Location = new System.Drawing.Point(0, 46);
             this.DM_productos.Name = "DM_productos";
-            this.DM_productos.Padding = new System.Windows.Forms.Padding(40, 0, 0, 0);
-            this.DM_productos.Size = new System.Drawing.Size(286, 57);
+            this.DM_productos.Padding = new System.Windows.Forms.Padding(30, 0, 0, 0);
+            this.DM_productos.Size = new System.Drawing.Size(213, 46);
             this.DM_productos.TabIndex = 11;
             this.DM_productos.Tag = "";
             this.DM_productos.Text = "  Productos";
@@ -1278,10 +1219,9 @@ namespace Sol_PuntoVenta.Presentacion
             this.DM_puntoventa.IconSize = 30;
             this.DM_puntoventa.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.DM_puntoventa.Location = new System.Drawing.Point(0, 0);
-            this.DM_puntoventa.Margin = new System.Windows.Forms.Padding(4);
             this.DM_puntoventa.Name = "DM_puntoventa";
-            this.DM_puntoventa.Padding = new System.Windows.Forms.Padding(40, 0, 0, 0);
-            this.DM_puntoventa.Size = new System.Drawing.Size(286, 57);
+            this.DM_puntoventa.Padding = new System.Windows.Forms.Padding(30, 0, 0, 0);
+            this.DM_puntoventa.Size = new System.Drawing.Size(213, 46);
             this.DM_puntoventa.TabIndex = 4;
             this.DM_puntoventa.Tag = "";
             this.DM_puntoventa.Text = "  Punto Venta";
@@ -1303,11 +1243,10 @@ namespace Sol_PuntoVenta.Presentacion
             this.Btn_datosmaestros.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.Btn_datosmaestros.IconSize = 30;
             this.Btn_datosmaestros.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.Btn_datosmaestros.Location = new System.Drawing.Point(0, 876);
-            this.Btn_datosmaestros.Margin = new System.Windows.Forms.Padding(4);
+            this.Btn_datosmaestros.Location = new System.Drawing.Point(0, 711);
             this.Btn_datosmaestros.Name = "Btn_datosmaestros";
-            this.Btn_datosmaestros.Padding = new System.Windows.Forms.Padding(13, 0, 0, 0);
-            this.Btn_datosmaestros.Size = new System.Drawing.Size(286, 57);
+            this.Btn_datosmaestros.Padding = new System.Windows.Forms.Padding(10, 0, 0, 0);
+            this.Btn_datosmaestros.Size = new System.Drawing.Size(213, 46);
             this.Btn_datosmaestros.TabIndex = 7;
             this.Btn_datosmaestros.Tag = "";
             this.Btn_datosmaestros.Text = "Datos Maestros";
@@ -1329,11 +1268,10 @@ namespace Sol_PuntoVenta.Presentacion
             this.Btn_cerrarsesion.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.Btn_cerrarsesion.IconSize = 30;
             this.Btn_cerrarsesion.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.Btn_cerrarsesion.Location = new System.Drawing.Point(0, 2005);
-            this.Btn_cerrarsesion.Margin = new System.Windows.Forms.Padding(4);
+            this.Btn_cerrarsesion.Location = new System.Drawing.Point(0, 1628);
             this.Btn_cerrarsesion.Name = "Btn_cerrarsesion";
-            this.Btn_cerrarsesion.Padding = new System.Windows.Forms.Padding(13, 0, 0, 0);
-            this.Btn_cerrarsesion.Size = new System.Drawing.Size(286, 57);
+            this.Btn_cerrarsesion.Padding = new System.Windows.Forms.Padding(10, 0, 0, 0);
+            this.Btn_cerrarsesion.Size = new System.Drawing.Size(213, 46);
             this.Btn_cerrarsesion.TabIndex = 6;
             this.Btn_cerrarsesion.Tag = "";
             this.Btn_cerrarsesion.Text = "  Cerrar Sesión";
@@ -1349,14 +1287,13 @@ namespace Sol_PuntoVenta.Presentacion
             // 
             // Frm_MiDashBoard
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1780, 922);
+            this.ClientSize = new System.Drawing.Size(1028, 609);
             this.Controls.Add(this.Pnl_escritorio);
             this.Controls.Add(this.Pnl_titulo);
             this.Controls.Add(this.Pnl_menu);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
-            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "Frm_MiDashBoard";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Frm_MiDashBoard";

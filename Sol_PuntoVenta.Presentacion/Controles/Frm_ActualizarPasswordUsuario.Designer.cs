@@ -47,7 +47,7 @@ namespace Sol_PuntoVenta.Presentacion.Controles
             // 
             // panel1
             // 
-            this.panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(87)))), ((int)(((byte)(101)))), ((int)(((byte)(116)))));
+            this.panel1.BackColor = System.Drawing.Color.MidnightBlue;
             this.panel1.Controls.Add(this.lblTitleChildForm);
             this.panel1.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel1.Location = new System.Drawing.Point(0, 0);
@@ -105,11 +105,11 @@ namespace Sol_PuntoVenta.Presentacion.Controles
             // 
             // Btn_actualizar_ahora
             // 
-            this.Btn_actualizar_ahora.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(250)))), ((int)(((byte)(130)))), ((int)(((byte)(49)))));
+            this.Btn_actualizar_ahora.BackColor = System.Drawing.Color.MediumTurquoise;
             this.Btn_actualizar_ahora.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Btn_actualizar_ahora.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(69)))), ((int)(((byte)(103)))), ((int)(((byte)(112)))));
             this.Btn_actualizar_ahora.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.Btn_actualizar_ahora.ForeColor = System.Drawing.Color.White;
+            this.Btn_actualizar_ahora.ForeColor = System.Drawing.Color.Black;
             this.Btn_actualizar_ahora.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.Btn_actualizar_ahora.ImageKey = "guardar.png";
             this.Btn_actualizar_ahora.Location = new System.Drawing.Point(448, 57);

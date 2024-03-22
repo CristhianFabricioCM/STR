@@ -62,11 +62,11 @@ namespace Sol_PuntoVenta.Presentacion
             // 
             // Btn_reporte
             // 
-            this.Btn_reporte.BackColor = System.Drawing.Color.DarkOrange;
+            this.Btn_reporte.BackColor = System.Drawing.Color.MediumTurquoise;
             this.Btn_reporte.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Btn_reporte.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(69)))), ((int)(((byte)(103)))), ((int)(((byte)(112)))));
             this.Btn_reporte.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.Btn_reporte.ForeColor = System.Drawing.Color.White;
+            this.Btn_reporte.ForeColor = System.Drawing.Color.Black;
             this.Btn_reporte.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.Btn_reporte.Location = new System.Drawing.Point(156, 121);
             this.Btn_reporte.Name = "Btn_reporte";
@@ -113,7 +113,7 @@ namespace Sol_PuntoVenta.Presentacion
             // 
             // panel1
             // 
-            this.panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(87)))), ((int)(((byte)(101)))), ((int)(((byte)(116)))));
+            this.panel1.BackColor = System.Drawing.Color.MidnightBlue;
             this.panel1.Controls.Add(this.lblTitleChildForm);
             this.panel1.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel1.Location = new System.Drawing.Point(0, 0);

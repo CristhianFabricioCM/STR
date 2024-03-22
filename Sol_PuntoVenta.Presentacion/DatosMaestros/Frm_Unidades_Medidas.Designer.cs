@@ -56,9 +56,9 @@
             this.Dgv_Listado = new System.Windows.Forms.DataGridView();
             this.tabPage1 = new System.Windows.Forms.TabPage();
             this.tabPage2 = new System.Windows.Forms.TabPage();
-            this.Tbp_general = new System.Windows.Forms.TabControl();
             this.label1 = new System.Windows.Forms.Label();
             this.Txt_abreviatura_um = new System.Windows.Forms.TextBox();
+            this.Tbp_general = new System.Windows.Forms.TabControl();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.Dgv_Listado)).BeginInit();
             this.tabPage1.SuspendLayout();
@@ -194,7 +194,7 @@
             // 
             // panel1
             // 
-            this.panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(87)))), ((int)(((byte)(101)))), ((int)(((byte)(116)))));
+            this.panel1.BackColor = System.Drawing.Color.MidnightBlue;
             this.panel1.Controls.Add(this.lblTitleChildForm);
             this.panel1.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel1.Location = new System.Drawing.Point(0, 0);
@@ -314,7 +314,7 @@
             // 
             // Btn_buscar
             // 
-            this.Btn_buscar.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(31)))), ((int)(((byte)(52)))), ((int)(((byte)(72)))));
+            this.Btn_buscar.BackColor = System.Drawing.Color.Teal;
             this.Btn_buscar.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Btn_buscar.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(69)))), ((int)(((byte)(103)))), ((int)(((byte)(112)))));
             this.Btn_buscar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -414,18 +414,6 @@
             this.tabPage2.TabIndex = 1;
             this.tabPage2.Text = "Mantenimiento";
             // 
-            // Tbp_general
-            // 
-            this.Tbp_general.Controls.Add(this.tabPage1);
-            this.Tbp_general.Controls.Add(this.tabPage2);
-            this.Tbp_general.ItemSize = new System.Drawing.Size(96, 32);
-            this.Tbp_general.Location = new System.Drawing.Point(12, 58);
-            this.Tbp_general.Name = "Tbp_general";
-            this.Tbp_general.SelectedIndex = 0;
-            this.Tbp_general.Size = new System.Drawing.Size(926, 376);
-            this.Tbp_general.SizeMode = System.Windows.Forms.TabSizeMode.Fixed;
-            this.Tbp_general.TabIndex = 12;
-            // 
             // label1
             // 
             this.label1.AutoSize = true;
@@ -443,6 +431,18 @@
             this.Txt_abreviatura_um.ReadOnly = true;
             this.Txt_abreviatura_um.Size = new System.Drawing.Size(74, 20);
             this.Txt_abreviatura_um.TabIndex = 1;
+            // 
+            // Tbp_general
+            // 
+            this.Tbp_general.Controls.Add(this.tabPage1);
+            this.Tbp_general.Controls.Add(this.tabPage2);
+            this.Tbp_general.ItemSize = new System.Drawing.Size(96, 32);
+            this.Tbp_general.Location = new System.Drawing.Point(12, 58);
+            this.Tbp_general.Name = "Tbp_general";
+            this.Tbp_general.SelectedIndex = 0;
+            this.Tbp_general.Size = new System.Drawing.Size(926, 376);
+            this.Tbp_general.SizeMode = System.Windows.Forms.TabSizeMode.Fixed;
+            this.Tbp_general.TabIndex = 12;
             // 
             // Frm_Unidades_Medidas
             // 

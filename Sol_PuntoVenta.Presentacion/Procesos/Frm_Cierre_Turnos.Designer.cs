@@ -101,7 +101,7 @@ namespace Sol_PuntoVenta.Presentacion
             // 
             // panel2
             // 
-            this.panel2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(234)))), ((int)(((byte)(167)))));
+            this.panel2.BackColor = System.Drawing.Color.MintCream;
             this.panel2.Controls.Add(this.Lbl_estado_tu);
             this.panel2.Controls.Add(this.Lbl_codigo_tu);
             this.panel2.Controls.Add(this.Lbl_codigo_pv);
@@ -226,12 +226,12 @@ namespace Sol_PuntoVenta.Presentacion
             // 
             // Btn_abrir_turno
             // 
-            this.Btn_abrir_turno.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(250)))), ((int)(((byte)(130)))), ((int)(((byte)(49)))));
+            this.Btn_abrir_turno.BackColor = System.Drawing.Color.MediumTurquoise;
             this.Btn_abrir_turno.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Btn_abrir_turno.Enabled = false;
             this.Btn_abrir_turno.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(69)))), ((int)(((byte)(103)))), ((int)(((byte)(112)))));
             this.Btn_abrir_turno.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.Btn_abrir_turno.ForeColor = System.Drawing.Color.White;
+            this.Btn_abrir_turno.ForeColor = System.Drawing.Color.Black;
             this.Btn_abrir_turno.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.Btn_abrir_turno.Location = new System.Drawing.Point(50, 202);
             this.Btn_abrir_turno.Name = "Btn_abrir_turno";
@@ -287,7 +287,7 @@ namespace Sol_PuntoVenta.Presentacion
             // 
             // panel1
             // 
-            this.panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(250)))), ((int)(((byte)(130)))), ((int)(((byte)(49)))));
+            this.panel1.BackColor = System.Drawing.Color.MediumTurquoise;
             this.panel1.Controls.Add(this.label2);
             this.panel1.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel1.Location = new System.Drawing.Point(0, 0);
@@ -298,7 +298,7 @@ namespace Sol_PuntoVenta.Presentacion
             // label2
             // 
             this.label2.Font = new System.Drawing.Font("Verdana", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.ForeColor = System.Drawing.Color.White;
+            this.label2.ForeColor = System.Drawing.Color.Black;
             this.label2.Location = new System.Drawing.Point(3, 4);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(421, 28);
@@ -338,7 +338,7 @@ namespace Sol_PuntoVenta.Presentacion
             // 
             // panel3
             // 
-            this.panel3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(87)))), ((int)(((byte)(101)))), ((int)(((byte)(116)))));
+            this.panel3.BackColor = System.Drawing.Color.MidnightBlue;
             this.panel3.Controls.Add(this.lblTitleChildForm);
             this.panel3.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel3.Location = new System.Drawing.Point(0, 0);

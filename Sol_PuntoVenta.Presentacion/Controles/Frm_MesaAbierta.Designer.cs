@@ -241,7 +241,7 @@ namespace Sol_PuntoVenta.Presentacion.Controles
             // 
             // Pnl_titulo
             // 
-            this.Pnl_titulo.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(87)))), ((int)(((byte)(101)))), ((int)(((byte)(116)))));
+            this.Pnl_titulo.BackColor = System.Drawing.Color.MidnightBlue;
             this.Pnl_titulo.Controls.Add(this.lblTitleChildForm);
             this.Pnl_titulo.Dock = System.Windows.Forms.DockStyle.Top;
             this.Pnl_titulo.Location = new System.Drawing.Point(0, 0);
@@ -276,7 +276,7 @@ namespace Sol_PuntoVenta.Presentacion.Controles
             // 
             // Pnl_tareas
             // 
-            this.Pnl_tareas.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(234)))), ((int)(((byte)(167)))));
+            this.Pnl_tareas.BackColor = System.Drawing.Color.MintCream;
             this.Pnl_tareas.Controls.Add(this.Lbl_codigo_tu);
             this.Pnl_tareas.Controls.Add(this.Lbl_codigo_us);
             this.Pnl_tareas.Controls.Add(this.Lbl_archivo_txt);
@@ -1080,7 +1080,7 @@ namespace Sol_PuntoVenta.Presentacion.Controles
             // 
             // Pnl_titulo1
             // 
-            this.Pnl_titulo1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(246)))), ((int)(((byte)(185)))), ((int)(((byte)(59)))));
+            this.Pnl_titulo1.BackColor = System.Drawing.Color.DarkTurquoise;
             this.Pnl_titulo1.Controls.Add(this.label5);
             this.Pnl_titulo1.Dock = System.Windows.Forms.DockStyle.Top;
             this.Pnl_titulo1.Location = new System.Drawing.Point(0, 0);
@@ -1149,7 +1149,7 @@ namespace Sol_PuntoVenta.Presentacion.Controles
             // 
             // Btn_c
             // 
-            this.Btn_c.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(246)))), ((int)(((byte)(185)))), ((int)(((byte)(59)))));
+            this.Btn_c.BackColor = System.Drawing.Color.DarkTurquoise;
             this.Btn_c.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Btn_c.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(69)))), ((int)(((byte)(103)))), ((int)(((byte)(112)))));
             this.Btn_c.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -1167,7 +1167,7 @@ namespace Sol_PuntoVenta.Presentacion.Controles
             // 
             // Btn_0
             // 
-            this.Btn_0.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(246)))), ((int)(((byte)(185)))), ((int)(((byte)(59)))));
+            this.Btn_0.BackColor = System.Drawing.Color.DarkTurquoise;
             this.Btn_0.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Btn_0.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(69)))), ((int)(((byte)(103)))), ((int)(((byte)(112)))));
             this.Btn_0.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -1185,7 +1185,7 @@ namespace Sol_PuntoVenta.Presentacion.Controles
             // 
             // Btn_9
             // 
-            this.Btn_9.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(246)))), ((int)(((byte)(185)))), ((int)(((byte)(59)))));
+            this.Btn_9.BackColor = System.Drawing.Color.DarkTurquoise;
             this.Btn_9.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Btn_9.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(69)))), ((int)(((byte)(103)))), ((int)(((byte)(112)))));
             this.Btn_9.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -1203,7 +1203,7 @@ namespace Sol_PuntoVenta.Presentacion.Controles
             // 
             // Btn_8
             // 
-            this.Btn_8.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(246)))), ((int)(((byte)(185)))), ((int)(((byte)(59)))));
+            this.Btn_8.BackColor = System.Drawing.Color.DarkTurquoise;
             this.Btn_8.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Btn_8.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(69)))), ((int)(((byte)(103)))), ((int)(((byte)(112)))));
             this.Btn_8.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -1221,7 +1221,7 @@ namespace Sol_PuntoVenta.Presentacion.Controles
             // 
             // Btn_7
             // 
-            this.Btn_7.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(246)))), ((int)(((byte)(185)))), ((int)(((byte)(59)))));
+            this.Btn_7.BackColor = System.Drawing.Color.DarkTurquoise;
             this.Btn_7.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Btn_7.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(69)))), ((int)(((byte)(103)))), ((int)(((byte)(112)))));
             this.Btn_7.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -1239,7 +1239,7 @@ namespace Sol_PuntoVenta.Presentacion.Controles
             // 
             // Btn_6
             // 
-            this.Btn_6.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(246)))), ((int)(((byte)(185)))), ((int)(((byte)(59)))));
+            this.Btn_6.BackColor = System.Drawing.Color.DarkTurquoise;
             this.Btn_6.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Btn_6.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(69)))), ((int)(((byte)(103)))), ((int)(((byte)(112)))));
             this.Btn_6.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -1257,7 +1257,7 @@ namespace Sol_PuntoVenta.Presentacion.Controles
             // 
             // Btn_5
             // 
-            this.Btn_5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(246)))), ((int)(((byte)(185)))), ((int)(((byte)(59)))));
+            this.Btn_5.BackColor = System.Drawing.Color.DarkTurquoise;
             this.Btn_5.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Btn_5.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(69)))), ((int)(((byte)(103)))), ((int)(((byte)(112)))));
             this.Btn_5.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -1275,7 +1275,7 @@ namespace Sol_PuntoVenta.Presentacion.Controles
             // 
             // Btn_4
             // 
-            this.Btn_4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(246)))), ((int)(((byte)(185)))), ((int)(((byte)(59)))));
+            this.Btn_4.BackColor = System.Drawing.Color.DarkTurquoise;
             this.Btn_4.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Btn_4.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(69)))), ((int)(((byte)(103)))), ((int)(((byte)(112)))));
             this.Btn_4.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -1293,7 +1293,7 @@ namespace Sol_PuntoVenta.Presentacion.Controles
             // 
             // Btn_3
             // 
-            this.Btn_3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(246)))), ((int)(((byte)(185)))), ((int)(((byte)(59)))));
+            this.Btn_3.BackColor = System.Drawing.Color.DarkTurquoise;
             this.Btn_3.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Btn_3.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(69)))), ((int)(((byte)(103)))), ((int)(((byte)(112)))));
             this.Btn_3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -1311,7 +1311,7 @@ namespace Sol_PuntoVenta.Presentacion.Controles
             // 
             // Btn_2
             // 
-            this.Btn_2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(246)))), ((int)(((byte)(185)))), ((int)(((byte)(59)))));
+            this.Btn_2.BackColor = System.Drawing.Color.DarkTurquoise;
             this.Btn_2.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Btn_2.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(69)))), ((int)(((byte)(103)))), ((int)(((byte)(112)))));
             this.Btn_2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -1329,7 +1329,7 @@ namespace Sol_PuntoVenta.Presentacion.Controles
             // 
             // Btn_1
             // 
-            this.Btn_1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(246)))), ((int)(((byte)(185)))), ((int)(((byte)(59)))));
+            this.Btn_1.BackColor = System.Drawing.Color.DarkTurquoise;
             this.Btn_1.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Btn_1.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(69)))), ((int)(((byte)(103)))), ((int)(((byte)(112)))));
             this.Btn_1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
