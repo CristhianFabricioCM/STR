@@ -615,6 +615,7 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Frm_login.resx">
       <DependentUpon>Frm_login.cs</DependentUpon>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="DatosMaestros\Frm_Mesas.resx">
       <DependentUpon>Frm_Mesas.cs</DependentUpon>
