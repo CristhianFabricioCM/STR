@@ -20,7 +20,7 @@ namespace Sol_PuntoVenta.Presentacion.Reportes
         private void Frm_Rpt_Imprimir_Boleta_Load(object sender, EventArgs e)
         {
             // TODO: esta línea de código carga datos en la tabla 'DS_PuntoVenta.USP_Imprimir_Boleta' Puede moverla o quitarla según sea necesario.
-            this.USP_Imprimir_BoletaTableAdapter.Fill(this.DS_PuntoVenta.USP_Imprimir_Boleta, Ncodigo_bol:Convert.ToInt32(Txt_p1.Text));
+            //this.USP_Imprimir_BoletaTableAdapter.Fill(this.DS_PuntoVenta.USP_Imprimir_Boleta, Ncodigo_bol:Convert.ToInt32(Txt_p1.Text));
 
             this.reportViewer1.RefreshReport();
         }
