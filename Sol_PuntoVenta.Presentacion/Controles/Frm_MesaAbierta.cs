@@ -650,34 +650,34 @@ namespace Sol_PuntoVenta.Presentacion.Controles
                     TablaImpresora=N_RegistrarPedido.Guardar_rp( Erp, TablaDetalle);
                         if (TablaImpresora.Rows.Count>0)
                         {
-                        #region "Impresión de Comandas"
-                        //En esta posición lanzamos la impresión de comandas a ticketeras                      
+                        //#region "Impresión de Comandas"
+                        ////En esta posición lanzamos la impresión de comandas a ticketeras                      
 
-                        for (int Nfila = 0; Nfila <= TablaImpresora.Rows.Count - 1; Nfila++)
-                        {
-                            X1impresora= Convert.ToString(TablaImpresora.Rows[Nfila][0]);
-                            X1codigo_ti= Convert.ToInt32(TablaImpresora.Rows[Nfila][1]);
-                            X1descripcion_pv= Convert.ToString(TablaImpresora.Rows[Nfila][2]);
-                            X1fecha_emision= Convert.ToString(TablaImpresora.Rows[Nfila][3]);
-                            X1descripcion_tu= Convert.ToString(TablaImpresora.Rows[Nfila][4]);
-                            X1nombres_us= Convert.ToString(TablaImpresora.Rows[Nfila][5]);
-                            X1descripcion_ca= Convert.ToString(TablaImpresora.Rows[Nfila][6]);
-                            X1descripcion_me= Convert.ToString(TablaImpresora.Rows[Nfila][7]);
-                            X1cliente= Convert.ToString(TablaImpresora.Rows[Nfila][8]);
-                            X1nrodocumento_cl= Convert.ToString(TablaImpresora.Rows[Nfila][9]);
+                        //for (int Nfila = 0; Nfila <= TablaImpresora.Rows.Count - 1; Nfila++)
+                        //{
+                        //    X1impresora= Convert.ToString(TablaImpresora.Rows[Nfila][0]);
+                        //    X1codigo_ti= Convert.ToInt32(TablaImpresora.Rows[Nfila][1]);
+                        //    X1descripcion_pv= Convert.ToString(TablaImpresora.Rows[Nfila][2]);
+                        //    X1fecha_emision= Convert.ToString(TablaImpresora.Rows[Nfila][3]);
+                        //    X1descripcion_tu= Convert.ToString(TablaImpresora.Rows[Nfila][4]);
+                        //    X1nombres_us= Convert.ToString(TablaImpresora.Rows[Nfila][5]);
+                        //    X1descripcion_ca= Convert.ToString(TablaImpresora.Rows[Nfila][6]);
+                        //    X1descripcion_me= Convert.ToString(TablaImpresora.Rows[Nfila][7]);
+                        //    X1cliente= Convert.ToString(TablaImpresora.Rows[Nfila][8]);
+                        //    X1nrodocumento_cl= Convert.ToString(TablaImpresora.Rows[Nfila][9]);
 
-                            // creación del printdocument para la comanda
-                            printDocument1 = new PrintDocument();
-                            //PrinterSettings Ps = new PrinterSettings();
-                            //printDocument1.PrinterSettings= Ps;
+                        //    // creación del printdocument para la comanda
+                        //    printDocument1 = new PrintDocument();
+                        //    //PrinterSettings Ps = new PrinterSettings();
+                        //    //printDocument1.PrinterSettings= Ps;
 
-                            printDocument1.PrinterSettings.PrinterName = X1impresora.Trim();                     
-                            printDocument1.PrintPage += Imprimir;
-                            printDocument1.Print();
+                        //    printDocument1.PrinterSettings.PrinterName = X1impresora.Trim();                     
+                        //    printDocument1.PrintPage += Imprimir;
+                        //    printDocument1.Print();
 
-                        }        
-                        //Fin de impresión
-                        #endregion
+                        //}        
+                        ////Fin de impresión
+                        //#endregion
                         MessageBox.Show("Pedido generado correctamente", "Aviso del Sistema", MessageBoxButtons.OK, MessageBoxIcon.Information);
                         
                             Txt_cliente.Text = "";
